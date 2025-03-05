@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "10. Morality and Justice"
-date:   2025-03-04 14:13:21 -0700
+date:   2025-03-04 02:00:00 -0700
 categories: jekyll update
 ---
 

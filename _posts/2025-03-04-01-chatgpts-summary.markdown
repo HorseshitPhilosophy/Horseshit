@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "1. Introduction to Horseshit"
-date:   2025-03-04 14:04:26 -0700
+date:   2025-03-04 11:00:00 -0700
 categories: jekyll update
 ---
 

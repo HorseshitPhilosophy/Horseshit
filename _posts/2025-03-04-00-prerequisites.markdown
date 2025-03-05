@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "0. Prerequisites for Understanding Horseshit"
-date:   2025-03-04 14:01:26 -0700
+date:   2025-03-04 12:00:00 -0700
 categories: jekyll update
 ---
 

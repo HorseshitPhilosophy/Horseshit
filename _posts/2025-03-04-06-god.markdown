@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "6. God and Perception"
-date:   2025-03-04 14:10:26 -0700
+date:   2025-03-04 06:00:00 -0700
 categories: jekyll update
 ---
 

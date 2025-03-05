@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "5. Identity as Encoded Qualia: The Art of Externalizing Self"
-date:   2025-03-04 14:06:26 -0700
+date:   2025-03-04 07:00:00 -0700
 categories: jekyll update
 ---
 ### **Identity as Encoded Qualia: The Art of Externalizing Self**

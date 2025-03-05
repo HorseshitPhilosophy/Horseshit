@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "4. The Nature of Death and Subjective Eternity"
-date:   2025-03-04 14:05:26 -0700
+date:   2025-03-04 08:00:00 -0700
 categories: jekyll update
 ---
 ### **The Nature of Death and Subjective Eternity**

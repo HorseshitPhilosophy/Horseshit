@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "7. Gravity as the Mind of God"
-date:   2025-03-04 14:11:26 -0700
+date:   2025-03-04 05:00:00 -0700
 categories: jekyll update
 ---
 

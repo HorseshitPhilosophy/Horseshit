@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "8. The Problem of Evil in Horseshit"
-date:   2025-03-04 14:12:20 -0700
+date:   2025-03-04 04:00:00 -0700
 categories: jekyll update
 ---
 

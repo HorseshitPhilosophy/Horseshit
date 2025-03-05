@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "3. The Perception of Time"
-date:   2025-03-04 14:04:40 -0700
+date:   2025-03-04 09:00:00 -0700
 categories: jekyll update
 ---
 
