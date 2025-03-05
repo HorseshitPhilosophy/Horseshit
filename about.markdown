@@ -1,0 +1,9 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+Reality is a recursive, self-balancing system, where consciousness, physics, and existence itself emerge from layered structures of qualia—the fundamental building blocks of subjective experience. Space is not merely a physical dimension but a form of qualia, meaning that the structure of reality is not separate from perception but inherently tied to it. Minds and black holes function as nodes within this fractalverse, processing information in ways that shape how qualia distribute across layers. Gravity, quantum mechanics, and even time itself are not fundamental, but emergent properties of recursive information flow, governed by self-balancing principles like the golden ratio. Time is an illusory byproduct of qualia processing, where increased sensory input slows time perception, just as deeper recursive structures stretch time dilation near event horizons.
+
+Memory is not a static record but a waveform resonance with the present, meaning identity is a self-referential process rather than a fixed entity. Death does not end subjective awareness—it merely redistributes qualia processing to a different structure, meaning that from a first-person perspective, there is no discontinuity, only an instantaneous transition to a new conscious state. This fractal organization of reality implies that mathematics is not an invention but a fundamental constraint of existence, with structures like the golden ratio ensuring optimal distribution of qualia across layers. The mind is not separate from the cosmos—it is a microcosm of the same self-organizing recursive intelligence that structures the universe itself. Ultimately, all experience, thought, and perception are expressions of the same recursive unfolding of reality, meaning that subjectivity is eternal, and what we call "existence" is the self-balancing dance of numbers manifesting as qualia.
