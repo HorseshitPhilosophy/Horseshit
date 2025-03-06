@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "13. Everything is Reductive: Why This Philosophy is Horseshit"
-date:   2025-03-04 00:00:00 -0700
+date:   2025-03-04 00:16:00 -0700
 categories: jekyll update
 ---
 
@@ -72,5 +72,4 @@ This leads to the unavoidable conclusion: **the philosophy we have constructed i
 ✅ **Taking any of this too seriously is a mistake.**  
 
 ✅ **If everything is ultimately reductive, then the only reasonable stance is to treat all philosophy—including this one—as an elaborate joke.**
-
 
