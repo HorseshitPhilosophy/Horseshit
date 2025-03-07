@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "8. The Problem of Evil in Horseshit"
+title:  "8. The Problem of Evil in Horseshit: Suffering as a Self-Balancing Process"
 date:   2025-03-04 04:00:00 -0700
 categories: jekyll update
 ---
@@ -40,7 +40,7 @@ In this model, **evil is not an external force, but a form of misalignment withi
 
 ---
 
-### **4. The Fractalverse Model of Morality: Harm as a Temporary State**
+### **4. The Horseshit Model of Morality: Harm as a Temporary State**
 - If **morality emerges from self-balancing structures**, then **“good” and “evil” are not absolute categories, but transient states within a shifting equilibrium.**
 - **Acts that promote balance create stability, while acts that disrupt it require correction.**
 - **Minds acting in misalignment experience suffering as feedback, guiding them toward balance.**

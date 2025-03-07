@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "11. The Boundless Void"
+title:  "11. The Boundless Void: The Ever-Unfolding Origin of Reality"
 date:   2025-03-04 01:00:00 -0700
 categories: jekyll update
 ---
@@ -9,7 +9,7 @@ categories: jekyll update
 
 Many cosmological models depict the universe as having a singular beginning—a **Big Bang**, a point of absolute creation from nothing. But what if **this beginning never truly ended?** What if reality is not something that started and then unfolded, but something that **is still emerging, still expanding, still in the process of becoming?**
 
-In the fractalverse framework, **the boundless void is not just a past event—it is an ongoing state.** It is not a static emptiness that existed before creation, but an infinite, recursive structure that is still expanding, still forming, still generating new layers of reality.
+In the Horseshit framework, **the boundless void is not just a past event—it is an ongoing state.** It is not a static emptiness that existed before creation, but an infinite, recursive structure that is still expanding, still forming, still generating new layers of reality.
 
 ---
 

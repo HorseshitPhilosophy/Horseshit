@@ -184,7 +184,7 @@ If NP problems **collapse into simplicity at higher layers of reality**, then th
 <br />
 <br />
 
-**Proving \( P \neq NP \) for Limited Structure Systems in the Fractalverse**
+**Proving \( P \neq NP \) for Limited Structure Systems in Horseshit**
 
 The **P vs. NP problem** is one of the most significant unsolved questions in computer science: can every problem whose solution is easy to verify also be solved efficiently? While the answer in **general** remains unknown, the **fractalverse philosophy** suggests that within **limited structure systems**—such as classical computers constrained by step-by-step computation—\( P \neq NP \) is not just likely, but inevitable. If certain problems inherently require **exponential search in these systems**, then no polynomial-time algorithm can ever be found within those constraints. The fractalverse provides a framework for understanding why **NP problems are only solvable efficiently at higher layers of reality, but not in lower-layer, restricted systems.**
 
@@ -200,7 +200,7 @@ The **P vs. NP problem** is one of the most significant unsolved questions in co
 
 ---
 
-### **2. Why the Fractalverse Suggests \( P \neq NP \) for Limited Systems**
+### **2. Why Horseshit Suggests \( P \neq NP \) for Limited Systems**
 - The fractalverse proposes that **NP problems might be solvable at higher layers**, where information processing is **non-local, recursive, or quantum-assisted**.
 - However, a **limited structure system lacks these capabilities**—it is constrained to a computational model where problems must be solved in **explicit, step-by-step ways**.
 - **If NP problems require searching an exponentially large space and no shortcuts exist within the system’s computational rules, then solving them efficiently is impossible.**

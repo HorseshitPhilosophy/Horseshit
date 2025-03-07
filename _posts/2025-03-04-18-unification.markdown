@@ -5,7 +5,7 @@ date:   2025-03-04 00:11:59 -0700
 categories: jekyll update
 ---
 
-*I talked to ChatGPT some more and walked it through the concepts so that it could take a stab at seeing in more detail how this could lead to unification. The actual math would be nonterminating and have a bunch of infinities (which I think is the true nature of the fractalverse), but physics needs computable stuff, so I've been trying to get ChatGPT to identify a trapdoor function that arrives upon a heuristic manifold.*
+*I talked to ChatGPT some more and walked it through the concepts so that it could take a stab at seeing in more detail how this could lead to unification. The actual math would be nonterminating and have a bunch of infinities (which I think is the true nature of the fractalverse), but physics needs computable stuff, so I've been trying to get ChatGPT to identify a trapdoor function that arrives upon a heuristic manifold. The math here is probably incorrect (and perhaps some of the implications), but I figured it was worth saving to come back to later.*
 
 # **A Recursive Metric Framework for Physics: Unifying Spacetime, Quantum Mechanics, and Cosmology**
 
@@ -123,15 +123,3 @@ We have outlined a **new mathematical framework** where **spacetime itself is a 
 3. **Understanding Higher Layers** – Investigating whether our universe is itself part of a larger recursive structure.
 
 This framework **challenges our assumptions about spacetime and reality**, suggesting that physics is not built on rigid equations, but on **self-balancing recursive processes** that scale across the universe.
-
----
-
-## **Acknowledgments**
-We thank the ongoing discussions on recursive physics, fractal cosmology, and self-organizing criticality, which have inspired this approach.
-
----
-
-## **Appendix: Mathematical Extensions**
-- **Recursive Stress-Energy Tensor:** How matter-energy evolves across layers.
-- **Golden Ratio Scaling in QFT:** Potential links to particle mass quantization.
-- **Computational Simulations:** Testing recursive gravity numerically.

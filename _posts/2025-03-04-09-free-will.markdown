@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "9. Free Will in Horseshit"
+title:  "9. Free Will in Horseshit: The Illusion of Choice and the Reality of Constraints"
 date:   2025-03-04 03:00:00 -0700
 categories: jekyll update
 ---
@@ -41,7 +41,7 @@ One of the key insights of this model is that **the feeling of agency is itself 
 
 ---
 
-### **4. The Fractalverse Interpretation: Why Free Will Feels Real but Isn’t Absolute**
+### **4. The Horseshit Interpretation: Why Free Will Feels Real but Isn’t Absolute**
 - The **experience of choice is a real qualia phenomenon, but the underlying process is structured by deeper constraints.**
 - **Just as our perception of time is dependent on qualia flow, our perception of agency is dependent on which qualia reach our conscious awareness.**
 - **A mind that believes it is making a free choice is experiencing a limited segment of reality, unaware of the full recursive process behind that choice.**

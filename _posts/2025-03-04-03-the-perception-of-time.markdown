@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "3. The Perception of Time"
+title:  "3. The Perception of Time: How Qualia, Space, and Time Interact"
 date:   2025-03-04 09:00:00 -0700
 categories: jekyll update
 ---
