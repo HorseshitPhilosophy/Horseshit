@@ -21,9 +21,8 @@
 title: Horseshit
 # email: julian@juliangeiger.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Explore a groundbreaking philosophical framework that unifies quantum mechanics,
-  gravity, and consciousness through recursion, fractal structures, and the golden ratio.
-  Discover how black holes, minds, and entanglement are deeply connected in a self-balancing reality.
+  Explore a groundbreaking philosophical framework where reality is a recursive, self-balancing process governed by fractal recursion and the golden ratio. Discover how quantum mechanics, gravity, and consciousness emerge from the same fundamental recursion, uniting black holes, minds, and entanglement as structural nodes within an infinite computation of existence.
+
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://horseshit.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: curlysemi
