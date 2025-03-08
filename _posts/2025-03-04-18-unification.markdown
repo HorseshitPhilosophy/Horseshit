@@ -128,7 +128,7 @@ This framework **challenges our assumptions about spacetime and reality**, sugge
 <br />
 <br />
 
-*Here's version two. Again, I still don't have a handle on the math and this is ChatGPTs (perhaps nonsense) suggestions*
+*Here's version two. Again, I still don't have a handle on the math and this is ChatGPT's (perhaps nonsense) suggestions*
 
 **Title: The Recursive Metric Framework: A Unified Approach to General Relativity and Quantum Field Theory**
 
