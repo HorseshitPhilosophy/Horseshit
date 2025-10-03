@@ -7,7 +7,7 @@ categories: jekyll update
 
 ## Abstract 
 
-Primordics is a new philosophical framework that introduces qualia and ligans as the primitives of awareness, explains how apprehensions (cyclic ligan-closures) and abstractions (token-stabilizations) emerge from them, diagnoses paradox as reference-flattening (extending Gödel’s insight beyond logic), and redefines philosophy’s aim as conceptual homeostasis rather than truth or universality.
+Primordics is a new philosophical framework that introduces qualia and ligans as the primitives of awareness, explains how apprehensions (cyclic ligan-closures) and abstractions (token-stabilizations) emerge from them, diagnoses paradox as reference-flattening (generalizing the boundary phenomenon exemplified by Gödel), and redefines philosophy’s aim as conceptual homeostasis rather than truth or universality.
 
 ## Definitions
 
@@ -32,7 +32,7 @@ An apprehension occurs when ligans connect into a cycle, producing a minimally s
 ---
 
 ### Def. 5 — Abstraction
-An abstraction is formed when an apprehension is stabilized by a repeatable token, such as a word, an image, or a gesture. Through tokenization, apprehensions acquire persistence and can be recalled, shared, and combined into larger structures. Abstractions make possible systematic thought and communication, as well as the distinctions—such as subject and object, internal and external, existence and non-existence—that characterize reflective philosophy. In this sense, abstraction is the threshold between pre-conceptual recognition and the articulated conceptual world. Tokens may be atomic (markers) or composite (constructions). Indication is the act of pointing to an expression; every indication presupposes a frame of indication beyond the indicated expression.
+An abstraction is formed when an apprehension is stabilized by a repeatable token, such as a word, an image, or a gesture. Through tokenization, apprehensions acquire persistence and can be recalled, shared, and combined into larger structures. Abstractions make possible systematic thought and communication, as well as the distinctions—such as subject and object, internal and external, existence and non-existence—that characterize reflective philosophy. In this sense, abstraction is the threshold between pre-conceptual recognition and the articulated conceptual world. Tokens may be atomic (markers) or composite (constructions). Indication is the act of pointing to an expression; every indication presupposes a frame of indication beyond the indicated expression. Indexing is the use of tokens to mark transitions within the flow, partitioning them into reproducible positions; indexing enables ordered sequences and explicit recall.
 
 ---
 
@@ -65,7 +65,7 @@ Primordic reconstruction is the reflective activity of using abstractions to mod
 ### Ax. 3 — Monism
 **Statement.** At the primordial level, no distinctions such as internal versus external, subject versus object, or mental versus material appear. The primordial field is monistic.
 
-**Explication.** Distinctions that structure later thought and discourse do not belong to the primordial base. Before token-stabilized abstraction, there is only undivided presence. The oppositions of subject and object, internal and external, and other dualities are themselves emergent products of abstraction. The primordial field, as accessed through reconstruction, is thus a unity in which such oppositions have not yet arisen.
+**Explication.** Distinctions that structure later thought and discourse do not belong to the primordial base. Before token-stabilized abstraction, there is only undivided presence. The oppositions of subject and object, internal and external, and other dualities are themselves emergent products of abstraction. The primordial field, as accessed through reconstruction, is thus a unity in which such oppositions have not yet arisen. Monism denies ontic dualisms (subject/object, inner/outer) but allows internal structural differentiations such as transitions and retentive asymmetries. These are variations of one field, not separations into two kinds of being.
 
 ---
 
@@ -104,17 +104,17 @@ Primordic reconstruction is the reflective activity of using abstractions to mod
 
 ---
 
-### Ax. 9 — Temporal Differentiation
-**Statement.** Awareness is given as a sequence of moments. Qualia never present themselves as a total simultaneity but always in temporal differentiation.
+### Ax. 9 — Intrinsic Transitionality
+**Statement.** The primordial field (awareness) is intrinsically differential: presence is given as local transitions (“deltas”) in the activation of qualia and ligans, not as an all-at-once simultaneity. These transitions are modulations within a single field and do not presuppose a global before/after order.
 
-**Explication.** The flow of awareness is structured by succession. Qualia arise, shift, and recede across moments, never appearing all-at-once as a completed totality. This temporal differentiation underpins recognition and memory, for the comparison of present and past qualia depends on temporal structure. Time is therefore not an added framework but an intrinsic feature of awareness as it is given in the primordial field.
+**Explication.** A transition is a minimal contrastive shift in how qualia and ligans are activated. Treating transition as intrinsic preserves monism: no subject/object or inner/outer is introduced—only internal variation of one field. A global temporal order (before/after, metric time) arises later when transitions are indexed by stabilized expressions (tokens) and coupled with retention traces into sequences. At the pre-index level, continuity is a feel of adjacency across transitions rather than a measured order.
 
 ---
 
-### Ax. 10 — Partial Retention
-**Statement.** Memory preserves only partial traces of prior qualia. This incompleteness enables recognition, salience, and error.
+### Ax. 10 — Retentive Asymmetry
+**Statement.** The primordial field exhibits selective carry-forward: traces of prior activation persist asymmetrically across transitions. This carry-forward is partial and biasing rather than representational, enabling proto-recognition and salience without presupposing explicit memory.
 
-**Explication.** Retention is never total. What is carried forward from one moment to the next is a partial trace rather than a complete reproduction of prior qualia. This partiality allows present qualia to be compared against incomplete echoes of the past, generating the possibility of recognition, the emphasis of salience, and the inevitability of error. Memory is thus not a mirror of the past but a selective residue, shaping the ongoing dynamics of apprehension and abstraction.
+**Explication.** Retentive asymmetry is a residual sensitivity of ligan configurations shaped by recent activation (a kind of hysteresis). It affords “holding patterns” at the level of apprehension without tokens. With tokenization, these residuals are shaped into explicit memory and ordered chronology; without it, they remain non-metric biases that make similarity, recurrence, and drift possible.
 
 ## Lemmas
 
@@ -162,19 +162,19 @@ Primordic reconstruction is the reflective activity of using abstractions to mod
 
 ---
 
-### Lemma 7 — Memory as Partial Retention
-**From Ax. 9 (Temporal Differentiation) and Ax. 10 (Partial Retention):**
-* Memory preserves only partial traces of prior qualia.
-* Because traces are incomplete, present qualia can be recognized as similar or different, making recognition and error both possible.
-* Salience emerges from reinforced patterns that stand out against this background of partiality.
+### Lemma 7 — Memory as Partial Carry-Forward
+**From Ax. 9 (Intrinsic Transitionality), Ax. 10 (Retentive Asymmetry), and Def. 4 (Apprehension)/Def. 5 (Abstraction):**
+* What persists across transitions is partial and asymmetric: residual tendencies in ligan connections remain without amounting to a full replay of prior qualia.
+* In light of these residuals, present qualia are taken as akin to or unlike earlier episodes, making both recognition and error possible.
+* Salience emerges where residual tendencies cohere into recurring patterns (apprehensions); with tokenization these coherences support explicit recall.
 
 ---
 
-### Lemma 8 — Temporal Structuring
-**From Ax. 9 (Temporal Differentiation):**
-* Awareness is always temporally differentiated; qualia appear as a sequence rather than as simultaneity.
-* This sequentiality enables comparison between past traces and present qualia, grounding the process of recognition and learning.
-* Without temporal structuring, no continuity of experience could be maintained.
+### Lemma 8 — From Transitions to Order
+**From Ax. 9 (Intrinsic Transitionality), Ax. 10 (Retentive Asymmetry), and Def. 5 (Abstraction):**
+* At the primordial level, presence is given as local transitions within a single field, not as a global, all-at-once sequence.
+* Ordered before/after relations arise when transitions are indexed by tokens and coupled with retentive traces into reproducible sequences, enabling explicit comparison, recall, and learning.
+* Absent such indexing, continuity is a felt adjacency across transitions rather than a measured order; chronology is an emergent product of abstraction, not a primitive.
 
 ---
 
@@ -202,24 +202,25 @@ Primordic reconstruction is the reflective activity of using abstractions to mod
 ---
 
 ### Lemma 12 — Emergence of Agency
-**From Ax. 5 (Emergence), Def. 5 (Abstraction), and Ax. 9 (Temporal Differentiation):**
-* Agency requires both temporal structuring (the sense of before/after) and abstraction (the token “I” or its equivalents).
-* Without tokens, actions are events in awareness but not owned by an agent.
+**From Ax. 5 (Emergence), Def. 5 (Abstraction), and Lemma 8 (From Transitions to Order):**
+* Agency requires ordered sequences (a usable before/after) and abstraction (a stabilized “I” or equivalent marker).
+* Without tokens and indexing, events occur within awareness but are not owned by an agent.
 * Agency is therefore an emergent abstraction, not a primitive.
 
 ---
 
 ### Lemma 13 — Semantic Drift
-**From Ax. 10 (Partial Retention) and Def. 5 (Abstraction):**
-* Because memory preserves only partial traces, tokens shift in their ligan associations over time.
-* This drift causes meanings to evolve, producing semantic change within abstraction networks.
-* Semantic drift is structural and unavoidable, not an error of usage.
+**From Ax. 9 (Intrinsic Transitionality), Ax. 10 (Retentive Asymmetry), and Def. 5 (Abstraction):**
+* Because carry-forward is partial and asymmetric, successive transitions alter the salience of the ligan connections a token tends to recruit.
+* Token-based indexing consolidates some alignments while allowing others to loosen; across transitions these alterations accumulate.
+* Meanings therefore evolve as a token’s operative ligan surround shifts; drift is structural and expected, not a usage error.
+
 
 ---
 
 ### Lemma 14 — Error as Mis-salience
-**From Ax. 10 (Partial Retention), Ax. 9 (Temporal Differentiation), and Def. 4 (Apprehension):**
-* Errors occur when incomplete traces lead to mis-matched recognition.
+**From Ax. 10 (Retentive Asymmetry), Ax. 9 (Intrinsic Transitionality), and Def. 4 (Apprehension):**
+* Errors occur when partial carry-forward and local transitions bias recognition toward a resemblance that does not hold.
 * Salient but partial resemblances can mislead abstraction into false identifications.
 * Error is not an anomaly but an inherent feature of partial retention within temporally structured awareness.
 
@@ -234,7 +235,7 @@ Primordic reconstruction is the reflective activity of using abstractions to mod
 ---
 
 ### Lemma 16 — Science as Tokened Iteration
-**From Def. 5 (Abstraction), Ax. 8 (No Absolute Abstractions), and Ax. 10 (Partial Retention):**
+**From Def. 5 (Abstraction), Ax. 8 (No Absolute Abstractions), and Ax. 10 (Retentive Asymmetry):**
 * Scientific method is the systematic stabilization of abstractions through repeatable procedures (tokens).
 * Its reliability comes from iteration and reinforcement, not from access to absolutes.
 * Science is thus a highly effective ligan network, but not a guarantor of metaphysical truth.
@@ -250,7 +251,7 @@ Primordic reconstruction is the reflective activity of using abstractions to mod
 ---
 
 ### Lemma 18 — Mathematics as Idealized Abstraction
-**From Def. 5 (Abstraction), Ax. 8 (No Absolute Abstractions), and Ax. 9 (Temporal Differentiation):**
+**From Def. 5 (Abstraction), Ax. 8 (No Absolute Abstractions), and Ax. 9 (Intrinsic Transitionality):**
 * Mathematics emerges from abstractions purified of sensory qualia, stabilized into symbolic tokens.
 * It operates as an idealized ligan system where salience and drift are minimized.
 * Mathematical “truths” are stable network invariants, not metaphysical absolutes.
@@ -281,7 +282,7 @@ Primordic reconstruction is the reflective activity of using abstractions to mod
 ---
 
 ### Lemma 22 — Relativization of Meaning
-**From Ax. 10 (Partial Retention), Lemma 13 (Semantic Drift), and Lemma 6 (Contextual Dependency):**
+**From Ax. 10 (Retentive Asymmetry), Lemma 13 (Semantic Drift), and Lemma 6 (Contextual Dependency):**
 * Meaning is shaped by the shifting associations of tokens within evolving ligan networks.
 * Because memory is partial and reinforcement varies, meanings change over time.
 * No abstraction holds fixed meaning across all contexts; meaning is inherently fluid.
@@ -344,7 +345,7 @@ Primordic reconstruction is the reflective activity of using abstractions to mod
 ---
 
 ### Lemma 30 — Paradox Dissolution
-**From Ax. 7 (Reflexivity), Ax. 8 (No Absolute Abstractions), Ax. 9–10 (Temporal/Partial Retention), and Lemma “Emergence of Self”:** Ax. 5 — Emergence
+**From Ax. 7 (Reflexivity), Ax. 8 (No Absolute Abstractions), Ax. 9–10 (Intrinsic Transitionality/Retentive Asymmetry), and Lemma 11 (Emergence of Self):**
 1. **Strata.** Primordics distinguishes: (a) the primordial field (qualia/ligans), (b) apprehensions (pre-conceptual patterns), (c) abstractions/tokens, and (d) reconstructions (meta-level descriptions and adjudication).
 2. **No pure self-reference.** What appears as “self-reference” at any stratum in fact depends on an indication frame supplied by another stratum; it is co-reference. Apparent “self-reference” becomes paradoxical only when this frame is flattened into the same stratum.
 3. **Reclassification of cases.**
