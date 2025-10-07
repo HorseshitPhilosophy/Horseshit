@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "65. Diorthism: Accessible Axioms"
+title:  "65. Diorthics: Accessible Axioms"
 date:   2025-03-04 00:11:12 -0700
 categories: jekyll update
 ---
