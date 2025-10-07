@@ -16,52 +16,66 @@ There are no “free-floating” claims outside of what appears.
 
 ---
 
+## Section I — Meaning-Building Primitives
+
 ### Definition 1 — Token
-A **token** is any repeatable mark, word, symbol, or gesture that carries meaning within a context.  
-Tokens let a frame “say” things—like *true*, *false*, *mass*, *legal*, or *beautiful*.  
-They can be sounds, written words, mathematical signs, or habitual gestures of thought.
+A **token** is any repeatable cue that can carry or reproduce meaning within a context.  
+Tokens can be:
+- **Private**, like a personal image or association,
+- **Shared**, like a word or gesture in communication,
+- **Systemic**, like a formal symbol in logic or mathematics.
+
+Tokens are the **building blocks** that allow meanings, beliefs, and models to be repeated, transmitted, and tested.  
+They don’t have meaning on their own; their meaning depends on how they’re used.
 
 ### Definition 2 — Rule
-A **rule** tells you how tokens can be combined, used, or tested.  
-Rules define what counts as valid reasoning, evidence, or expression inside a frame.
-
-### Definition 3 — Adjudicator
-An **adjudicator** is whatever the frame treats as its final authority for deciding what’s acceptable.  
-Examples: in science, experiment; in math, proof; in law, precedent; in everyday talk, shared understanding.  
-The adjudicator sets the standard for correctness inside that frame.
-
-### Definition 4 — Scope or Boundary
-A **scope** (or **boundary**) marks what the frame covers—its topic and limits.  
-Beyond that boundary, its tokens or rules may no longer apply or may shift meaning.
-
-### Definition 5 — Authentication
-**Authentication** is the process by which a frame decides how to treat an expression:  
-approve it (accept/validate), reject it (invalidate), or suspend judgment (uncertain, undefined, open).  
-It’s the frame’s way of applying its rules and adjudicator to a specific case.
-
-### Definition 6 — Indication Frame (F)
-A **frame** is the whole setup that includes:  
-1. its **tokens**,  
-2. its **rules**,  
-3. its **adjudicator(s)**,  
-4. its **scope/boundary**, and  
-5. its process of **authentication**.  
-
-It’s the local structure that gives meaning to statements and decides what counts as legitimate within that context.
-
-### Axiom 2 — Frame Dependence
-Every expression is **authenticated within some frame** F.  
-Outside a frame, words and symbols don’t have a stable or agreed meaning.
-
-### Definition 7 — Expression
-An **expression** is anything said, written, or symbolized inside a frame’s language.  
-It can be a sentence, equation, gesture, or statement—whatever the frame treats as something that can be checked or judged.
+A **rule** tells you how tokens may be combined, interpreted, or evaluated.  
+Rules determine what counts as a valid use, inference, or expression within a given context.
 
 ---
 
+## Section II — Framing Meaning
+
+### Definition 3 — Adjudicator
+An **adjudicator** is whatever the context treats as its **final authority** for deciding what’s acceptable.  
+Examples: in science, experiment; in mathematics, proof; in law, precedent; in everyday life, mutual understanding.  
+The adjudicator defines what counts as a **legitimate verdict** within that setting.
+
+### Definition 4 — Scope or Boundary
+A **scope** (or **boundary**) marks the **extent** of a context—what kinds of things it covers and what falls outside it.  
+Outside that boundary, the rules or meanings of its tokens may shift or stop applying.
+
+### Definition 5 — Authentication
+**Authentication** is the process of **applying rules and adjudicators** to decide how to treat a specific expression:  
+approve (accept/validate), reject (invalidate), or suspend (undecided).  
+It’s how a context renders judgment on its own contents.
+
+### Definition 6 — Frame (F)
+A **frame** is a **complete structure of meaning** that includes:
+1. its **tokens**,  
+2. its **rules** for using them,  
+3. its **adjudicator(s)**,  
+4. its **scope/boundary**, and  
+5. its process of **authentication**.
+
+A frame is what makes an expression intelligible: it supplies the conditions under which words, symbols, or gestures can count as *meaningful at all.*
+
+### Axiom 2 — Frame Dependence
+Every expression is **authenticated within some frame** F.  
+Outside a frame, tokens lack stable meaning.
+
+### Definition 7 — Expression
+An **expression** is any structured use of tokens **within** a frame that can be checked or judged—  
+a sentence, equation, diagram, gesture, or claim.  
+Expressions exist **for a frame** the way sentences exist **for a language**.
+
+---
+
+## Section III — Judging and Indexing
+
 ### Definition 8 — Adjudicator Token (t₍F₎)
-Many frames have a special **token** that represents their adjudicator’s standard of judgment—like *true*, *provable*, *legal*, *beautiful*, or *heap*.  
-This token belongs to the **level that evaluates** the frame’s expressions; it’s the label the frame uses to mark what passes its test.
+Many frames use a special **token** to mark their adjudicator’s verdict—e.g., *true*, *provable*, *lawful*, *valid*, *beautiful*.  
+This token belongs to the **evaluative level** (the level that judges expressions in F). It’s the label the frame (or its meta-frame) uses to mark what passes its test.
 
 ---
 
@@ -188,10 +202,7 @@ So starting from awareness isn’t a metaphysical claim about some cosmic substa
 
 ---
 
-### Definition 11 — Tokens (private / shared / system)
-**Tokens** are repeatable cues that help rebuild or pass on stable meanings.  
-They range from **private habits** (a personal association or image), to **shared words** in conversation, to **formal symbols** in logical or technical systems.  
-Tokens are the building blocks that let stabilizations—beliefs, ideas, or models—be repeated and communicated.
+*(Note: Having established how frames and adjudication operate, we can now examine how meanings evolve over time as tokens circulate between frames.)*
 
 ---
 
