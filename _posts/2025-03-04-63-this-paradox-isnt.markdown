@@ -13,6 +13,30 @@ At first glance, **P** behaves like a classic self-referential snare. If **P** i
 
 The instability of **P** looks decisive—it seems to trap us in an unavoidable oscillation between truth and falsity. Yet this very oscillation hints that something deeper is wrong not with logic itself, but with how the evaluation is framed. We therefore offer a framework in which **P** is not a paradox—a framework in which there are no true paradoxes.
 
+## Definitions
+
+### **Indication Frame**
+An **indication frame** is the structural context within which expressions are evaluated.  
+It determines what counts as a valid move, which tokens are admissible, and how authentication—approval, rejection, or suspension—occurs.  
+Every field of thought operates within its own indication frame: logic, mathematics, theology, and ordinary discourse each define their own criteria of legitimacy.  
+Paradox arises when an expression attempts to both operate *within* a frame and *decide* the rules of that frame at once—a collapse known as **frame-flattening**.  
+An indication frame may be formal (a calculus, a metalanguage) or informal (a practice, a language-game); what matters is that it supplies rules and adjudicative tokens that authenticate expressions.
+
+
+---
+
+### **Token**
+A **token** is any reproducible marker that carries evaluative or referential function within a frame.  
+Tokens can be linguistic (“true,” “false”), symbolic (⊥, ⊢), or procedural (proof rules, semantic operators).  
+Among these, some tokens act as **adjudicative tokens**—they determine the status of other tokens or expressions (e.g., “truth,” “provability,” “paradoxicality”).  
+A paradox occurs when such a token is applied to the very operation by which it adjudicates, creating **token self-adjudication**.
+
+---
+
+### **Expression**
+An **expression** is any structured combination of tokens intended for authentication within a frame.  
+Expressions are not inherently true or false; they are **authenticated** only relative to the rules and adjudicators of the frame in which they appear.  
+When an expression invokes an adjudicative token to classify itself (as in “This sentence is false”), it merges expressive and adjudicative roles, destabilizing the frame’s hierarchy and generating apparent contradiction.
 
 ## 1. Gödel and Wittgenstein: Expression-First and Frame-First
 
@@ -90,34 +114,58 @@ The Liar paradox appears to hinge on the peculiarities of *truth*, but its struc
 In the Liar, the adjudicative token is *truth*.  
 In Russell’s set paradox, it is *membership*.  
 In Gödel’s incompleteness construction, it is *provability*.  
-In the Sorites, it is *heapness*—the property by which items are classified.  
+In the Sorites, it is *heapness*—the property by which items are classified.†  
 In “This paradox isn’t,” it is *paradoxicality* itself.  
 
 Each paradox trades in a different vocabulary, but all perform the same move: they use the very criterion of admissibility (truth, membership, provability, etc.) to test their own admissibility. The contradiction is only apparent; the real error is **role confusion**. The token that should belong to the frame’s evaluative machinery has been pulled into the expression’s own syntax.
 
+†(While the Sorites paradox involves vagueness rather than explicit self-reference, the structural failure is analogous: the adjudicator for category membership is applied in a way that presupposes the very boundary it is meant to provide, collapsing the role distinction between classifier and classified.)
+
+
 ### 3.2 Generalized Formulation
 
-Let a frame **F** provide an adjudicative token **T** (for example, *true*, *provable*, *heap*, *member*, *paradoxical*).  
-A paradox arises when an expression **E**:
+Let a frame **F** provide an **adjudicative token** **T**, such as *true*, *provable*, *member*, or *heap*.  
+Ordinarily, **T** functions at the **meta-level** of **F**: it is the operator the frame uses to evaluate or classify its expressions.  
+For example, in an arithmetic frame **Fₐ**, the token **Provable(x)** belongs to the meta-language that determines which formulas count as theorems of **Fₐ**.  
+In a semantic frame **Fₛ**, the token **True(x)** belongs to the meta-language that determines which sentences of **Fₛ** are satisfied.
 
-1. employs **T** inside itself, and  
-2. also relies on **F** to authenticate **T**’s application,  
-such that **E** simultaneously *uses* and *defines* the conditions of its own adjudication.
+A paradox arises when an expression **E** inside **F**:
 
-Formally: **E(T\_F)** where the scope of **T** includes **E** itself.  
-This is the point of **token self-adjudication**—the common mechanism beneath all paradoxes.
+1. employs the token **T** as part of its own syntax (that is, within the object language of **F**), and  
+2. simultaneously relies on the same token **T** in its meta-level, adjudicative sense within **F**,  
+
+such that **E** uses **T** both as an object-level predicate and as the meta-level operator by which **F** authenticates expressions.  
+In effect, the token **T** collapses its own hierarchical distinction — it is used to judge the very act of judging.
+
+Formally we can denote this as:
+
+```
+E(T₍meta₎₍F₎ ⟶ T₍object₎₍F₎)
+```
+
+or more simply:
+
+```
+E(T₍F₎)
+```
+
+Here **₍meta₎** and **₍object₎** mark the role that the token **T** is playing, while **₍F₎** designates the frame in which those roles are defined.  
+The paradox arises when this role distinction is ignored or flattened — when **T**, the frame’s own evaluative operator, is invoked by an expression as if it were a local predicate available within that same level of discourse.
+
+This is the point of **token self-adjudication**: the moment when a meta-token that normally governs a field of expressions is drawn into that field as one of its own elements. The result is oscillation, not because the token misbehaves, but because the distinction between rule and application has collapsed.
+
 
 ### 3.3 General Families of Repair
 
 Once stated at this level, the historical solutions fall neatly back into the two master families introduced earlier.
 
-- **Expression-First Repairs**: preserve the frame, disqualify or retokenize the offending expression.  
+- **Expression-First Repairs** (Wittgensteinian): preserve the frame, disqualify or retokenize the offending expression.  
   - Retokenization / Banishment  
   - Pre-emptive Grammar  
   - Indexical Discipline  
   - Pragmatic Relocation
 
-- **Frame-First Repairs**: preserve the expression, revise the frame so it can safely evaluate the self-adjudicating token.  
+- **Frame-First Repairs** (Gödelian): preserve the expression, revise the frame so it can safely evaluate the self-adjudicating token.  
   - Stratification (meta-levels or type hierarchies)  
   - Partiality / Suspension (undefined cases)  
   - Dynamic Revision (iterative evaluation)  
@@ -162,57 +210,13 @@ A **frame-first** analysis preserves the expression and modifies the evaluative 
 
 Under this reading, **P** is not false or paradoxical but **diagnostic**. It is an orphaned expression that points, perhaps unintentionally, to the boundary of the frame in which “paradox” is defined.
 
-### 4.4 The Primordic Reading
+### 4.4 A Novel Reading
 
-From the standpoint of Primordics, both analyses are viable because they accomplish the same repair. Whether by excluding the expression (Wittgensteinian) or expanding the frame (Gödelian), each move **restores separation** between the adjudicator token *paradox* and the expression that invokes it. Once this separation is in place, the sentence stabilizes: “This paradox isn’t a paradox” is either (a) not eligible for evaluation in the paradox frame or (b) a legitimate meta-statement about paradoxes at one remove. In neither case does a genuine contradiction survive.
+From this novel diagnostic perspective, both analyses are viable because they accomplish the same repair. Whether by excluding the expression (Wittgensteinian) or expanding the frame (Gödelian), each move **restores separation** between the adjudicator token *paradox* and the expression that invokes it. Once this separation is in place, the sentence stabilizes: “This paradox isn’t a paradox” is either (a) not eligible for evaluation in the paradox frame or (b) a legitimate meta-statement about paradoxes at one remove. In neither case does a genuine contradiction survive.
 
 In short, **P** dramatizes the very principle it violates. Its instability is not proof of a real paradox but evidence of a frame-flattening that can be repaired by stratification. When awareness of the levels is restored, the oscillation vanishes, leaving only a diagnostic trace—the sign of the boundary that keeps sense intact.
 
-<!-- The next and final section will consider what this reveals about paradoxes in general: that they are not defects of reason but markers of structural confusion—moments where expression and frame momentarily fuse, inviting the philosopher not to despair, but to repair. -->
-
-The next and final section will draw these threads together under a single principle—the **Diagnostic View**. Paradoxes, we will see, are not failures of logic but stress-signals that reveal where an adjudicative token has slipped into its own field of application. From Gödel and Wittgenstein’s opposing repairs to the structure of “This paradox isn’t” itself, the pattern is the same: meaning falters only when expression and frame fuse. The philosopher’s task is not to despair at this fusion, but to diagnose and repair it.
-
-
-<!-- 
-## 5. The Function of Paradox
-
-Paradoxes are not failures of logic but **stress tests** for coherence. Each marks the point where an adjudicative token—truth, membership, provability, heapness, paradoxicality—has slipped from its evaluative role into an expressive one, using the very rules meant to govern it as material for its own construction. What looks like contradiction is really a short circuit: the collapse of the distinction between **expression** and **frame**. Once that distinction is restored, the paradox dissolves, and what remains is insight into the architecture of thought itself.
-
-### 5.1 From Contradiction to Diagnosis
-
-To treat paradox as contradiction is to stay trapped inside the flattening that produced it. Each “solution” in the historical sense—whether Russell’s type hierarchy, Tarski’s metalanguage, Kripke’s partial semantics, or Wittgenstein’s dismissal—can be reinterpreted as a repair strategy restoring **role separation**. What differs among them is not the mechanism but the *location* of the fix. Expression-first strategies tighten the boundary of admissible sentences; frame-first strategies expand the evaluative apparatus. But both reassert a principle that might be called the **Law of Stratified Adjudication**:
-
-> No token may simultaneously serve as both adjudicator and object of adjudication within the same indication frame.
-
-Wherever this law is violated, oscillation ensues; wherever it is restored, coherence returns.
-
-### 5.2 Paradox as Constructive Stress
-
-Seen this way, paradox performs a vital epistemic function. It is a **diagnostic beacon** that reveals where a system’s self-modeling capacity meets its limit. A calculus that never encounters paradox is one that never tests its own boundaries. Paradox is how a system learns the shape of its own frame—it is the feedback signal of self-reference attempting to run without stratification. Logic evolves not by erasing paradoxes but by absorbing their lessons into new forms of separation.
-
-- Russell’s paradox forced the invention of types.  
-- The Liar forced the hierarchy of metalanguages.  
-- Gödel’s construction exposed the incompleteness boundary.  
-- Paraconsistent logics accepted controlled contradiction as an instrument.  
-- Primordics generalizes all of these as frame repairs rather than refutations.
-
-### 5.3 The Primordic Principle
-
-In Primordic terms, a paradox is not an ontological wound but a **moment of resonance collapse**. Expression and frame, which normally maintain distinct roles within awareness, overlap destructively, canceling their capacity to authenticate meaning. The cure is **stratification**—reestablishing the recursive order that allows interference patterns to stabilize rather than self-annihilate. When that order is restored, what had seemed impossible becomes coherent again, not because the contradiction was solved, but because it was recontextualized.
-
-Thus the Primordic stance—“This paradox isn’t”—is not denial but recognition: paradoxes *aren’t* contradictions in reality; they are signals that our indication frames have folded in on themselves. To say “this paradox isn’t” is to perform the act of repair: to lift the evaluative token one level higher so that expression and frame are again distinct.
-
-### 5.4 Philosophy After Paradox
-
-The philosophical task, then, is not to banish paradox but to **use it diagnostically**. Each paradox teaches us where our concepts have overreached their frame. The philosopher’s role is to notice the flattening, to trace which token has turned self-adjudicative, and to decide whether to repair by restriction (expression-first) or expansion (frame-first). In either case, the goal is not final truth but structural viability.
-
-What remains after paradox is not despair but clarity. The oscillation that once seemed fatal becomes a rhythm of self-correction—a signal that awareness is encountering the edge of its own modeling power. At that edge, philosophy finds its true task: not resolving contradiction, but **maintaining coherence in motion**, preserving the difference between the rules we use and the statements we make with them.
-
-> Paradox, in this light, is philosophy’s immune response.  
-> It tells us when our thought has mistaken its own scaffolding for the sky.  
-> To understand that is to see why, finally, this paradox isn’t. -->
-
-
+The final section draws these threads together under a single principle—the **Diagnostic View**. Paradoxes, we will see, are not failures of logic but stress-signals that reveal where an adjudicative token has slipped into its own field of application. From Gödel and Wittgenstein’s opposing repairs to the structure of “This paradox isn’t” itself, the pattern is the same: meaning falters only when expression and frame fuse. The philosopher’s task is not to despair at this fusion, but to diagnose and repair it.
 
 ## 5. Conclusion — The Diagnostic View
 
@@ -227,13 +231,3 @@ Generalization revealed the **structure** common to them all:
 Seen through this lens, “truth” and “falsity” are not privileged; they are just familiar members of a larger class of adjudicative tokens. What collapses in each case is not semantic bivalence but **frame hierarchy** itself.
 
 “This paradox isn’t” then serves as the **meta-demonstration** of that claim. It performs the very collapse it names—paradox judging itself—and thus displays, in miniature, the mechanism that unites Gödel, the Liar, and every other self-referential snare. Once the adjudicator (*paradoxicality*) is lifted out of the expression and returned to a higher frame, the contradiction evaporates. What remains is not a puzzle but a **diagnostic**: a structural echo marking where sense momentarily folded in on itself.
-
----
-
-### Why This Order Works
-
-- **Historical → Structural → General → Application → Reflection.**  
-  The sequence leads the reader from the familiar disputes of Gödel and Wittgenstein, through the concrete machinery of the Liar, to the abstract generalization of indication frames, and finally to the illustrative case of “This paradox isn’t.”  
-
-- **Orientation through pattern recognition.**  
-  The argument doesn’t assert its theorem up front; it *shows* it arising naturally from a series of converging examples. The reader discovers, step by step, that every paradox is the same gesture—a token trying to adjudicate itself—and that philosophy’s task is not to banish these moments, but to understand what they reveal about how coherence maintains itself.
