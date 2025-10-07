@@ -1,0 +1,131 @@
+---
+layout: post
+title:  "64. Diorthism: Axioms"
+date:   2025-03-04 00:11:13 -0700
+categories: jekyll update
+---
+
+# Core Skeleton (v1)
+
+### Definition 0 — Appearance / Awareness (A)
+**Awareness** = the fact that anything appears at all. It’s not a substance; it’s the **condition** under which statements, observations, and theories can occur.
+
+### Axiom 1 — Occurrence
+Every statement, theory, perception, or proof **occurs within awareness** (A). There are no “free-floating” claims outside appearance.
+
+---
+
+### Definition 1 — Indication Frame (F)
+A **frame** is a local context that fixes: (i) eligible tokens and their use, (ii) rules of inference/assessment, (iii) an **adjudicator** (what settles disputes: experiment, proof, convention, coherence), and (iv) scope/boundary.
+
+### Axiom 2 — Frame Dependence
+Every expression is **authenticated within some frame** F. Outside a frame, words don’t have settled use.
+
+---
+
+### Definition 2 — Expression & Authentication
+An **expression** lives in the language of a frame, L(F). **Authentication** is the frame’s verdict: approve / reject / suspend.
+
+### Definition 3 — Adjudicator Token (t₍F₎)
+A frame’s adjudicator often has a token (e.g., **true**, **provable**, **heap**, **paradoxical**). It **belongs to the level that evaluates** expressions of L(F).
+
+### Axiom 3 — No Absolute Frame
+No frame can legitimately adjudicate **all** frames “from nowhere.” Cross-frame claims must **index** their scope.
+
+---
+
+### Definition 4 — Indexing / Meta-frame (F′)
+Using an adjudicator about expressions of F **from a higher level** is **indexing** (e.g., true@F said in F′).
+
+### Axiom 4 — Separation Requirement
+Stable evaluation requires a **level distinction**: the adjudicator token for F is **not** used as an ordinary token **within** L(F) unless explicitly re-indexed.
+
+---
+
+### Lemma 1 — Reference Constraint (awareness talk)
+Words **about** awareness can only **index** aspects the hearer can already re-instantiate. Language can’t import experiences a person has never had; it can only **point** to them via shared structure.
+
+*Sketch:* By Axiom 2, meaning needs a frame; by Axiom 1, all frames are within awareness. If a listener lacks the experiential resources that make a token eligible in their frame, indexing fails.
+
+### Lemma 2 — No Transparent Self-Adjudication
+If an expression in L(F) tries to **use** the adjudicator token t₍F₎ **on itself** without indexing a meta-frame, authentication **cannot stabilize** (it is ineligible or oscillatory).
+
+*Sketch:* Violates Axiom 4 (level distinction). Either the frame refuses the move (inadmissible) or evaluation cycles.
+
+---
+
+### Theorem 1 — Frame-Flattening Theorem (Paradox)
+**Apparent paradox arises exactly when an adjudicator token is reused inside its own frame without indexing.**  
+**Repair** = (i) lift to F′ (stratify), or (ii) retokenize/ban the move (grammar repair).
+
+*Sketch:* Lemma 2 gives instability; Axiom 4 specifies why (level collapse). Lifting or retokenizing restores separation, so oscillation vanishes.
+
+**Corollary 1 — Liar Case (plain)**
+“This sentence is false.” In a classical truth frame, either (a) it’s **inadmissible** (expression-level repair), or (b) it is **true-at-meta** as a **diagnosis** of object-level failure (frame-level repair). No contradiction remains.
+
+**Corollary 2 — Sorites (heap)**
+Treating *heap* as if one crisp rule applied across shifting micro-frames flattens context. Repair by indexing (context/fuzzy) or by dual tokens (everyday-heap vs. technical-HEAP).
+
+---
+
+### Definition 5 — Viability
+A stabilization (belief, model, practice) is **viable** iff it: (i) stays stable under modest noise, (ii) recovers after perturbation, (iii) fits overlaps with neighboring frames (consonance), and (iv) **generates** further coherent structure.
+
+### Axiom 5 — Viability Constraint
+What **endures** in discourse/practice is what is **viable** under ongoing feedback. Non-viable stabilizations collapse or get confined.
+
+### Lemma 3 — Truth as Post-Repair Durability
+Relative to an indexed frame, “true” tracks **durability under contact** **after** necessary frame repairs (stratification/retokenization) are in place.
+
+*Sketch:* Apply Axiom 5 inside a properly separated setup (Axiom 4); “true” names the stabilized outcome.
+
+---
+
+### Theorem 2 — No “Absolute Metaphysics” from Inside a Frame
+Any claim that legislates an **ultimate, frame-independent** picture of reality **from within** a language/frame is a case of frame-flattening. It reduces, on analysis, to either (i) indexed program (declared scope) or (ii) paradox-style collapse.
+
+*Sketch:* Uses Axiom 3 (no absolute frame) + Theorem 1 (flattening ⇒ paradox). Indexing rescues scope-limited “metaphysics” as program/design, not doctrine.
+
+**Corollary 3 — Why Starting from Awareness Isn’t Metaphysics**
+By Axiom 1, every frame already presupposes awareness; by Theorem 2, trying to justify awareness **from outside** is incoherent. So we start from awareness not as a substance claim, but as **minimal bookkeeping** about where any saying happens.
+
+---
+
+### Definition 6 — Tokens (private/shared/system)
+**Tokens** = reproducible cues that re-instantiate stabilizations (private habits → shared words → system symbols).
+
+### Lemma 4 — Drift
+As tokens travel across frames, their operative links **shift** (semantic drift). Successful systems **track the drift** (retokenize/index/update rules) rather than deny it.
+
+### Theorem 3 — Communication Success Criterion
+Communication succeeds when **enough of the frame** is shared to re-instantiate the intended stabilization; failure indicates **frame mismatch**, not necessarily bad faith or nonsense.
+
+### Theorem 4 — Conceptual Homeostasis
+Within awareness, stability of meaning requires ongoing adjustment of frames to preserve coherence under feedback.  
+Because philosophy’s subject-matter is conceptual structure itself, its proper function is **the maintenance of viable conceptual equilibrium** — **conceptual homeostasis.**
+
+*Sketch:*  
+From Axiom 5 (viability) and Lemma 3 (truth as durability), stability = feedback-resistant coherence.  
+Theorem 1 (frame-flattening) shows collapse occurs when distinctions blur; repair restores equilibrium.  
+Therefore, sustained understanding depends on continuous balancing rather than on fixed foundations.
+
+**Corollary — The Task of Philosophy**  
+Philosophy’s goal is not to find immutable truths but to keep the network of meanings viable —  
+to diagnose breakdowns of coherence and restore balance with minimal distortion.
+
+### Theorem 5 — The Pseudo-Problem Principle
+Every enduring philosophical “problem” results from **frame-flattening**—the unacknowledged reuse of adjudicative distinctions across incompatible frames.  
+
+Let an expression E₁, valid within frame F₁, be used to judge E₂ within F₂ as though F₁ and F₂ shared a common adjudicator.  
+Then contradiction or impasse follows.  
+When the frames are re-differentiated (acknowledging distinct criteria of authentication), the apparent contradiction dissolves.
+
+**Corollary — Philosophy as Diagnosis**
+Philosophy’s task is not to resolve such pseudo-problems by further theorizing within a collapsed frame,  
+but to **restore frame differentiation**—to show where language has mistaken its own limits for the limits of reality.  
+
+**Example:**  
+- Mind–body dualism: “mental” and “physical” are not competing substances but complementary frames of stabilization.  
+- The Is–Ought problem: normativity cannot be derived from description because it belongs to a distinct adjudicative frame.  
+- Skepticism: asking for a justification of knowledge “from outside knowledge” repeats frame-flattening.
+
