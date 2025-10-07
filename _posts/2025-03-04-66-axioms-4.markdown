@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "66. Diorthics: Even More Accessible Axioms"
-date:   2025-03-04 00:11:12 -0700
+date:   2025-03-04 00:11:11 -0700
 categories: jekyll update
 ---
 
