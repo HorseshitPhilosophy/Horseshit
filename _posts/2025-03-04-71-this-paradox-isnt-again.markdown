@@ -56,16 +56,9 @@ The test of success is not sameness of interpretation but **coherence within one
 
 ## 3. The Question of Self-Reference
 
-Now we can return to the supposed contradiction.  
-To say “Diorthics is neutral” while also saying “Diorthics integrates” sounds self-undermining only if both claims are read inside one frame.  
-But they belong to different layers:
+Now we can return to the supposed contradiction. If Diorthics can describe every frame as a local repair of coherence, does it not become one more frame among them? That is the Diorthics-paradox as it appears: the frame that maps frames seems to flatten into its own object.
 
-- As **method**, Diorthics is neutral: it does not take sides.  
-- As **description**, it is integrative: it observes that all sides function through comparable patterns of repair.
-
-When these layers are collapsed, the result looks like paradox — just as “This paradox isn’t a paradox” loops because it uses the same token (“paradox”) both inside and outside its own frame.  
-Once the distinction of levels is seen, the oscillation stops.  
-The two statements no longer compete; they complement.
+One way to dissolve that appearance is to re-differentiate the frames at work in the charge itself. The accusation fuses two roles: *Diorthics-as-practice* (the work of tracing frame boundaries and repairs) and *Diorthics-as-report* (the sentences produced within that work). Keep those roles distinct and the paradox loosens—yet that is only one repair. A theist may resolve the tension by appeal to divine reflexivity; a logician by stratifying languages; a phenomenologist by returning to lived appearance; a pragmatist by functional fit. The point is not to crown a single fix but to recognize that any coherent repair, indexed to its adjudicator, suffices. The paradox was a frame-fusion; the solution is whatever restores differentiation without pretending to finality.
 
 ---
 
@@ -93,7 +86,7 @@ It points at the very fold in language where evaluation and expression momentari
 In that light, it’s not paradoxical at all — it’s **diagnostic**.
 
 “This sentence is false” can be treated the same way.  
-If “false” means “meaningless,” then the sentence is meaningfully saying of itself that it lacks meaning — and succeeds.  
+Read ‘false’ as ‘out-of-scope’: the sentence then shows its own inapplicability and succeeds as a diagnostic performance, not as a proposition.
 It’s valid *as* a self-referential performance, not as a contradiction.  
 The paradox resolves when we recognize that our interpretive machinery was being used twice in one gesture.
 
@@ -124,27 +117,39 @@ Seen this way, contradiction is not failure — it’s **the heartbeat of repair
 
 ---
 
-## 8. Closing Reflection — Sense Under Maintenance
+## 8. In Clearer Terms
 
-You may still feel that Diorthics is too safe, that it rescues coherence at every cost.  
-If so, you’re right to be cautious.  
-A system that explains everything explains nothing.  
-But Diorthics doesn’t explain; it *clarifies the conditions for explanation*.  
-It doesn’t ask you to believe in balance, only to notice how you already seek it whenever meaning trembles.  
+There exists a perspective in which apparent paradox is not paradox—a stance from which contradiction no longer signals the failure of sense but its reconfiguration.
 
-That awareness is not a final truth.  
-It’s a stance of attentiveness — a way of keeping sense alive when certainty falters.
+We call this stance Diorthic.
 
-And so we end where we began:  
-with the simple claim that philosophy’s task is not to stand on rock, but to learn how to keep rebuilding the raft.  
-Diorthics is one way of watching that rebuilding happen — including, inevitably, within itself.
+In the Diorthic view, paradox does not arise from incompatible truths but from a fusion or collision of frames, a collapse of boundaries between distinct adjudicative orders. When an expression, its rule, and the authority that authenticates it are treated as though they belong to a single plane, meaning folds in on itself. “This paradox isn’t” wavers only because the same verdict-token is being used twice—once within the sentence and once upon it. When those operations are kept distinct—expression, rule, and adjudicator—coherence returns. What once appeared self-defeating is revealed as frame-flattening, not impossibility.
 
-## 9. On the Limits of Formalization
+Yet Diorthics, too, faces its own tension. If it can describe every frame as a local repair of coherence, does it not become one more frame among them—another philosophy claiming neutrality while standing within the field it surveys? This is the **Diorthics-paradox**: the appearance that Diorthics undermines itself by diagnosing all frames while being one. One way to dissolve the tension is to distinguish between *Diorthics-as-method*, the practice of tracing frames and their repairs, and *Diorthics-as-description*, the statements made within that practice. Seen this way, the paradox vanishes: method and description occupy different levels, and their coexistence is not contradiction but complementarity. But that is only one possible repair strategy.
+
+The Diorthic perspective recognizes its own generativity and the contingency of its articulation. The way its apparent paradox is resolved depends on the worldview through which the thinker operates. A theist may reconcile it through divine reflexivity; a logician through language stratification; a phenomenologist by returning to lived appearance; a pragmatist through functional coherence. Each repair achieves local stability under its own adjudicator. The diversity of these resolutions is not a weakness but the clearest expression of the Diorthic stance itself: that meaning stabilizes locally, never absolutely. From this view, the dream of universal consensus reveals itself as the last unexamined metaphysics—a projection of one frame’s grammar upon the rest. Diorthics releases that ambition. Its strength lies not in final resolution but in the recognition that every act of understanding is a situated equilibrium, a balance maintained under pressure.
+
+In this light, the so-called **Diorthics-paradox** is not a flaw to correct but the mark of self-awareness—the point where Diorthics includes itself among the things it describes. Paradox dissolves not through universal agreement but through the clear acceptance that coherence is always framed, and that knowing this is what allows sense to keep standing.
+
+Diorthics resolves self-reference not through recursion or hierarchy, but through plural repair. Historically, self-reference paradoxes (the liar, Russell’s set, Gödel’s sentences) are handled by:
+* Hierarchical stratification (Tarski)
+* Meta-language (Carnap)
+* Fixed points (Kripke)
+* Dialetheism (Priest)
+* Paraconsistency or recursion (modern logic, type theory)
+
+The Diorthic resolution is that any such “paradox” can be dissolved by adopting a repair strategy appropriate to one’s adjudicator, and that no single strategy is globally authoritative. (It’s effectively a unification of semantic and pragmatic approaches, offering a meta-framework that neither asserts nor denies contradiction, but relocates it to the point of frame interaction.)
+
+Where most meta-systems (from Hegel to Derrida) *perform* self-reference, Diorthics diagnoses it as an instance of its own process: an unavoidable case of meaning including itself in its field.
+The Diorthic position (that the Diorthics-paradox can be resolved by any repair strategy compatible with a worldview, and that universal consensus is a mirage) gives philosophical reflexivity a pragmatic closure without falling into relativism or infinite regress.
+
+## 9. Note: On the Limits of Formalization
 It is tempting to ask whether Diorthics could be expressed as a calculus—a set of symbols and inference rules for tracing repairs mechanically. But that temptation is itself a Diorthic event.
 Every formal system operates within a frame: its tokens, rules, and adjudicator must already be settled before derivations begin. Diorthics does not replace those systems; it maps their horizons. It describes how any formalism remains coherent only by leaving its own boundary unformalized.
 
 If one tried to formalize Diorthics completely, the attempt would immediately reproduce what it forbids: the unmarked reuse of its own adjudicator within itself. The result would not be greater rigor, but self-erasure.
 
 For Diorthics, rigor means something different: not axiomatic closure, but transparent awareness of where closure fails and why. Formal systems are invaluable inside their scopes—physics, logic, computation—but Diorthics functions one level higher, as the grammar that keeps those scopes distinct and communicable.
+
 In that sense, Diorthics is *meta-formal*: it names the condition under which formal reasoning itself remains viable.
 Its discipline is not in equations but in distinctions.
