@@ -9,13 +9,16 @@ categories: jekyll update
 # The Reflexive Frame  
 ### Why “This Paradox Isn’t” Isn’t a Paradox — and Why Diorthics Isn’t, Either
 
-If you’ve followed this far, you’ve probably noticed the tension.  
-Diorthics calls itself **agnostic** among worldviews, yet it also acts **integratively**, describing how all worldviews stabilize meaning in similar ways.  
-Isn’t that itself a worldview — a theory about all theories, one more system pretending not to be?  
-If so, doesn’t Diorthics contradict itself?
+f you’ve followed this far, you may have felt a certain tension forming.
 
-That is a fair question.  
-But before we answer it, we have to notice *how* the question itself arises.
+Diorthics explains how every act of understanding occurs within a frame—yet it also speaks about framing itself.How can a method that insists all meaning is frame-indexed make statements about that very indexing without claiming a privileged, frameless view?
+
+If it, too, must operate within some frame, does it not become one more participant in the field it describes?
+
+And if so, does it not risk collapsing into the very fusion it warns against?
+
+That is a fair question.But before we answer it, we have to notice *how* that question itself arises.
+
 
 ---
 
@@ -86,7 +89,7 @@ It points at the very fold in language where evaluation and expression momentari
 In that light, it’s not paradoxical at all — it’s **diagnostic**.
 
 “This sentence is false” can be treated the same way.  
-Read ‘false’ as ‘out-of-scope’: the sentence then shows its own inapplicability and succeeds as a diagnostic performance, not as a proposition.
+Read "false" as "out-of-scope": the sentence then shows its own inapplicability and succeeds as a diagnostic performance, not as a proposition.
 It’s valid *as* a self-referential performance, not as a contradiction.  
 The paradox resolves when we recognize that our interpretive machinery was being used twice in one gesture.
 
@@ -142,6 +145,22 @@ The Diorthic resolution is that any such “paradox” can be dissolved by adopt
 
 Where most meta-systems (from Hegel to Derrida) *perform* self-reference, Diorthics diagnoses it as an instance of its own process: an unavoidable case of meaning including itself in its field.
 The Diorthic position (that the Diorthics-paradox can be resolved by any repair strategy compatible with a worldview, and that universal consensus is a mirage) gives philosophical reflexivity a pragmatic closure without falling into relativism or infinite regress.
+
+
+<!--
+The old article was missing one sentence
+The old article stops at:
+"Diorthics resolves its own paradox through local repair. Different worldviews can each resolve it differently."
+That is fine, but without an extra clarifier, it sounds like:
+"Therefore paradox disappears permanently."
+Which would contradict the generalization.
+But the intended meaning (and what we now make explicit) is:
+"Each resolution is local.
+No resolution is globally final.
+The diversity of repairs is itself the structural fact.
+That structural fact is ontological pluriformity."
+Once you add that final step, the old article perfectly aligns with the Gödel generalization.
+-->
 
 ## 9. Note: On the Limits of Formalization
 It is tempting to ask whether Diorthics could be expressed as a calculus—a set of symbols and inference rules for tracing repairs mechanically. But that temptation is itself a Diorthic event.

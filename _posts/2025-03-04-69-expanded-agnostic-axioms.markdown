@@ -74,6 +74,58 @@ Across all frames, a context is what allows something to *count as distinct*.
 Even when we speak of “reality itself,” we are already inside a context that makes that phrase meaningful.  
 Diorthics therefore treats context not as optional background but as the **medium of intelligibility**—the place where meaning, truth, and evaluation first become possible.
 
+
+### **Definition 0.1 — Pluriform (Π)**  
+A **pluriform** is a single Diorthic construction intentionally formulated to remain intelligible across multiple worldviews,  
+so that each interprets it through its own adjudicator without contradiction.  
+
+A pluriform does not erase differences; it preserves **structural invariance amid semantic translation**.  
+Its purpose is to let one articulation—such as an axiom, definition, or theorem—be authenticated in distinct frames by different adjudicators,  
+each reading the same structure through its own idiom.  
+
+Formally:  
+If \( F_i, F_j \) are frames with adjudicators \( α_i, α_j \),  
+a pluriform \( Π \) satisfies  
+\[
+α_i(Π_i) = ⊩⁺ \quad \text{and} \quad α_j(Π_j) = ⊩⁺
+\]
+where \( Π_i, Π_j \) are contextual interpretations of the same underlying pattern of distinction.  
+
+In practice, a pluriform is what allows Diorthic principles to be **misread responsibly**—  
+to appear as “faith” in one worldview, “empiricism” in another, and “balance” in a third—  
+without any of these readings violating structural coherence.  
+
+Pluriforms are thus **translation-stable invariants**:  
+they anchor shared intelligibility even when vocabularies, metaphysics, or adjudicators diverge.  
+They show that communication across frames is possible not by finding a common truth-token,  
+but by maintaining common structure under different truth-words.
+
+**Examples:**  
+- The Diorthic axiom “Whatever can be described is already presented” is a pluriform:  
+  materialists read it as empirical appearance, theists as divine givenness, idealists as mental manifestation, nondualists as spontaneous arising.  
+  Each adjudicator differs, but the structural statement—*presentation precedes interpretation*—remains invariant.  
+- The term **viability** functions pluriformly: for the scientist it means empirical resilience, for the moralist moral integrity, for the mystic experiential clarity.  
+
+**Interpretive Context:**  
+Pluriforms are the connective tissue of the Diorthic grammar.  
+They do not unify meanings but **align their architectures**,  
+making mutual translation possible without collapse into relativism or dogma.  
+Through pluriform design, Diorthics becomes readable—and testable—inside any worldview that honors presentation and coherence.
+
+**Comparative Note:**  
+| Worldview | Typical Reading of a Pluriform | Adjudicator Involved |  
+|------------|-------------------------------|----------------------|  
+| **Materialist** | Empirical principle or operational law | Experiment / observation |  
+| **Theist** | Divine ordinance or revelatory truth | Faith / revelation |  
+| **Idealist** | Rational or conceptual necessity | Reason / coherence |  
+| **Nondualist** | Direct experiential manifestation | Awareness / clarity |  
+
+In all cases, the pluriform is the **same structure seen through different lights**—  
+not a lowest common denominator, but a shape that holds across refraction.
+
+
+
+
 ---
 
 ## II. The Building Blocks of Sense
@@ -306,6 +358,165 @@ Such repair processes are Diorthically described under the concept of **viabilit
 
 Across all interpretations, a frame is the **matrix of intelligibility**—the local field in which meaning takes shape, coherence is tested, and understanding becomes possible.  
 It is not a belief about the world, but the **way a world hangs together**.
+
+
+### **Definition 6 — Expression (ε)**
+An **expression** is a configuration of tokens arranged by a frame’s rules and submitted to its adjudicator for authentication.  
+Formally: \( \varepsilon \in \tau^{*} \) governed by \( \rho \) in frame \( F \), evaluated by \( \alpha \) with verdict \( \{ ⊩⁺, ⊩⁻, ⊩° \} \).
+
+An expression is the *unit of sense* within a frame—the entity that can be judged.  
+When a physicist states an equation, a lawyer drafts a clause, or a theologian utters a creed, each act forms an expression awaiting authentication.
+
+---
+
+### **Definition 7 — Canonical Frame (F♮)**
+A **canonical frame** is the public or communal *specification* of a frame—its declared tokens, rules, adjudicator role, scope, and authentication procedure.  
+Examples: “Euclidean geometry,” “ZF set theory,” “the U.S. legal system,” “Western tonal harmony.”  
+Canonical frames are **heuristic abstractions**, not independent entities. They summarize how a community intends the frame to function.
+
+Formally:
+\[
+F♮ = \langle τ, ρ, α, ⊩, σ \rangle_{community}
+\]
+
+---
+
+### **Definition 8 — Interpreted Frame (F@W)**
+An **interpreted frame** is a *realization of a canonical frame within a worldview* \(W\).  
+It represents how an actual agent or group instantiates the canonical specification—complete with misunderstandings, preferences, and extra assumptions.
+
+\[
+F@W \subseteq F♮
+\]
+
+Thus “ZF set theory as understood by a novice” and “ZF set theory as applied by a PhD” are distinct interpreted frames derived from the same canonical specification.  
+There is no mind-independent “ZF” floating in abstraction—only its various interpreted instantiations.  
+The canonical label “ZF set theory” is a convenient fiction summarizing this family of interpretations.
+
+---
+
+### **Definition 9 — Adjudicator Types (α)**
+Adjudicators can be classified by how verdicts are produced:
+
+| Type | Description | Example |
+|------|--------------|----------|
+| **αₐᵤₜₒ** | *Autonomous*: procedural or mechanical authentication without live human judgment. | Proof assistant, model checker, cryptographic verifier |
+| **αₕᵤₘₐₙ** | *Situated / Human*: verdicts issued by persons within their own worldviews. | Judge, peer reviewer, referee |
+| **αₕᵧᵦ** | *Hybrid*: autonomous pre-adjudication with human ratification. | Compiler + human auditor, DAO vote after on-chain verification |
+
+Even αₐᵤₜₒ depends on higher-level assumptions (hardware, specification, logic soundness).  
+Hence *no adjudicator is absolute*; all are indexed to further frames.
+
+---
+
+### **Definition 10 — Issue (ι)**
+An **issue** is any ambiguity, gap, or tension within a canonical or interpreted frame that impedes authentication or repair.  
+Issues are the *atoms of maintenance*—unresolved tokens, underspecified rules, conflicting precedents, or anomalies awaiting reinterpretation.  
+Frames persist by detecting and resolving their issues over time.
+
+---
+
+### **Definition 11 — Composite Frame (F⊗)**
+A **composite frame** is a working configuration formed by the interaction of two or more interpreted frames.  
+Because there are no “absolute” frames, almost every live practice is composite to some degree—an evolving interface of partial systems that coordinate their adjudicators.
+
+Formally:
+\[
+F_{⊗} = \bigotimes_i F_i@W_i + I
+\]
+where \(I\) denotes the interface rules that govern translation of tokens, rules, and verdicts among the constituent frames.
+
+
+### **Definition 12 — Existential Token (∃ₓ)**
+
+An **existential token** is any token whose function is to *authenticate presentation* within a frame.  
+Ordinary examples include words such as *is*, *exists*, *real*, *being*, and their equivalents in other languages.  
+
+For any frame \( F \) with adjudicator \( α_F \):
+
+\[
+∃_F(x) \;≝\; α_F(‘x is coherently presented’)
+\]
+
+Thus, “to exist” means: *to be stably present according to the rules of \(F\).*  
+Different frames instantiate different authentication procedures (empirical, conceptual, revelatory, direct, etc.),  
+but all perform the same functional act.
+
+
+---
+
+### **Interpretive Context**
+Composite frames explain why *issues* (ι) are nearly universal.
+
+- **Inherited Openness:** Each constituent frame brings its own unclosed questions and assumptions.  
+- **Interface Tension:** When adjudicators overlap or conflict, authentication becomes ambiguous.  
+- **Emergent Discipline:** Over time, such composites stabilize through convention and appear as self-contained “fields.”  
+  Philosophy, law, and science are not single frames but long-lived composites that have forgotten their seams.
+
+The persistence of discussion within a discipline is the symptom of its composite nature:  
+each argument or research program functions as an attempt to clarify an interface rule or repair an inherited issue.
+
+---
+
+### **Examples**
+| Composite Frame | Source Frames | Persistent Issue (ι) |
+|-----------------|---------------|----------------------|
+| **Analytic Philosophy** | Logical–mathematical + traditional metaphysical frames | Whether meaning is formal or experiential |
+| **Cognitive Science** | Neuroscience + computational logic + phenomenology | The “hard problem” of consciousness |
+| **Bioethics** | Legal + medical + moral–philosophical | What counts as “personhood” |
+| **Economics** | Mathematical + sociological + moral | Value vs. price |
+| **AI Governance** | Technical + legal + ethical | Accountability of autonomous adjudicators |
+
+Each case shows how the appearance of a unified field masks the composite interfaces beneath it.
+
+---
+
+### **Diorthic Function**
+To apply Diorthics to a composite frame is to **make its seams visible**—to map which adjudicators are interacting, where interface rules are missing, and which issues arise from that fusion.
+
+Repair, then, is not discovering new truth but restoring separation and re-indexing adjudication so the composite can remain viable.
+
+In this sense, *most of human inquiry is composite maintenance*—the endless re-balancing of inherited frames.
+
+---
+
+### **Lemma — Worldview Mediation of Adjudication**
+Every human adjudication \( \alpha_{human} \) operates as \( \alpha_{human}@W \).  
+Verdicts on the same canonical frame \(F♮\) can diverge without contradiction when interpreters inhabit different worldviews \(W_i\).  
+**Corollary:** peer review is a *repair protocol* over the set of individual adjudicators, not an oracle.
+
+---
+
+### **Lemma — No Purely Absolute Frame**
+Even maximally specified, formally verified systems rely on extra-formal premises (spec correctness, hardware integrity, environmental stability).  
+Therefore, “absolute frames” reduce to autonomous adjudicators indexed to higher-order meta-frames.  
+αₐᵤₜₒ narrows variance but never abolishes contextual dependence.
+
+---
+
+### **Lemma — Ordinary-Language Boundary**
+When an expression \( \varepsilon \) contains tokens not standardized by the frame’s lexicon, interpreters import meaning from their worldviews.  
+This boundary is managed by glossaries, type systems, or fallback rules; failure to mark it generates *issues*.
+
+
+
+### **Lemma 4 — Frame-Indexed Equivalence of Existential Tokens**
+
+Let \( F_i, F_j \) be any two coherent frames.  
+Then for any presentation \( p \),
+
+\[
+∃_{F_i}(p) \;\text{and}\; ∃_{F_j}(p)
+\]
+
+refer to the same **structural operation** (authentication of presentation)  
+though expressed through different adjudicators and vocabularies.
+
+**Proof Sketch:**  
+By Axiom 0 (Presentation) every discussable token already appears.  
+By Axiom 1 (Contextuality) its authentication occurs within a frame.  
+Therefore all uses of the existential token across frames reduce to the same structural act—confirmation of presentation under local rules. ∎
+
 
 
 ---
@@ -814,6 +1025,163 @@ In short:
 **Paradox is not the end of reason; it is reason’s way of showing where it needs to look again.**
 
 
+
+### Derived Theorems on Truth and Reality
+
+The following theorems articulate consequences that follow directly from the Diorthic axioms, definitions, and lemmas.  
+They yield structural conclusions about **truth** and **reality** that differ from traditional epistemic or metaphysical claims.  
+Each result expresses a necessary feature of any viable ecology of meaning.
+
+---
+
+### **Theorem 6 — No Global Truth Section**
+
+**Claim:**  
+There exists no single adjudicator or verdict function capable of coherently assigning truth values to all expressions across all frames at once.  
+Truth is necessarily *local*—defined within individual frames and their valid interfaces.
+
+**Formally:**  
+Let \( \mathcal{F} \) be the set of all frames.  
+There is no global adjudicator \( α_* : \bigcup_{F∈\mathcal{F}} ε_F \to \{⊩⁺,⊩⁻\} \) such that  
+\( α_*|_F = α_F \) for all \(F\) without violating the Separation Requirement.
+
+**Proof Sketch:**  
+1. By *Axiom 1 (Contextuality)*, each expression \( ε \) gains meaning only within a frame \(F\) governed by its own adjudicator \( α_F \).  
+2. By *Axiom 2 (No View From Nowhere)*, any proposed global adjudicator \( α_* \) must itself operate from some meta-frame \( F′ \).  
+3. If \( F′ \) evaluates its own truth operator, it breaches the *Separation Requirement* (Axiom 3) or demands infinite meta-lift.  
+4. By the *Frame Relativity of Verdict-Words*, verdicts alter meaning with the adjudicator that issues them.  
+Therefore, no coherent, context-independent “Truth-for-All” function can exist.  
+Truth possesses only **local sections**, and where interfaces fail, there is no global section to patch them.
+
+**Corollary 6.1 — Indexed Realism**  
+Truth exists, but always *as an indexed function*: \( ⊩_F(ε) \) rather than \( ⊩(ε) \).  
+Global truth collapses into contradiction or infinite meta-ascent.
+
+---
+
+### **Theorem 7 — Residual Indeterminacy is Necessary**
+
+**Claim:**  
+In any nontrivial composite frame \( F_{⊗} = \bigotimes_i F_i@W_i + I \),  
+if the interfaces \(I\) fully eliminate all issues (ι), the frame self-collapses.  
+Hence every viable composite must retain a nonzero residue of undecidability.
+
+**Proof Sketch:**  
+1. Interface rules \(I\) translate tokens and verdicts between constituent frames.  
+2. If \(I\) forced perfect unification, the composite’s adjudicator would judge its own import rules, breaching *Separation (Axiom 3)*.  
+3. To remain viable (Axiom 4), the system must avoid self-sealing; therefore some open issues \(ι > 0\) must persist as buffers between adjudicators.  
+4. Eliminating all \(ι\) results either in incoherence (self-adjudication) or infinite meta-lift.  
+
+**Conclusion:**  
+A minimal level of open-endedness is a **structural condition of coherence**.  
+Residual “mystery” is not failure but architecture.
+
+**Corollary 7.1 — Load-Bearing Questions**  
+Live disciplines retain unresolvable questions not because they are incomplete, but because those questions stabilize their composite interfaces.
+
+---
+
+### **Theorem 8 — Curvature of Coherence (Holonomy of Truth)**
+
+**Claim:**  
+Verdict-words (such as “true”) exhibit *path-dependent transport* across frames.  
+When a verdict is translated through a sequence of frames and returned to its origin, it may not remain identical.  
+This path-dependence constitutes the **curvature** of the adjudicative field.
+
+**Proof Sketch:**  
+1. Each interface \(I_{ij}\) reinterprets verdicts when moving from \(F_i\) to \(F_j\).  
+2. Composed interfaces are generally noncommutative: \( I_{jk} ∘ I_{ij} ≠ I_{ik} \).  
+3. A verdict transported around a closed loop of frames \(F_1 → F_2 → … → F_n → F_1\) returns as  
+   \( ⊩’_{F_1} = H(⊩_{F_1}) \), where \(H\) is the composite holonomy operator.  
+4. When \(H ≠ \text{identity}\), the frame network possesses **nonzero curvature**.  
+
+**Interpretation:**  
+Disagreements that persist after full evidence exchange may express this curvature: different paths through frame-space yield distinct, internally coherent verdicts.
+
+**Corollary 8.1 — Flat and Curved Truth Spaces**  
+- *Flat*: frames with perfectly commutative interfaces (rare ideal).  
+- *Curved*: frames whose adjudicators or translations differ—typical of real discourse and cultural variation.
+
+---
+
+### **Corollary 8.2 — Structural Pluralism**
+
+From Theorems 6–8:  
+1. Truth is local (no global section).  
+2. Every viable composite requires unresolved issues.  
+3. Verdicts transported across frames can change curvature.
+
+**Therefore:**  
+Plurality of truths and persistent partial disagreement are **not contingent features** of human discourse but *necessary properties* of any self-correcting ecology of meaning.*
+
+---
+
+### **Summary**
+
+| Theorem | Structural Discovery | Implication |
+|----------|----------------------|-------------|
+| **6 — No Global Truth Section** | Truth cannot be globally unified without collapse. | All truth is frame-indexed. |
+| **7 — Residual Indeterminacy** | Issues are load-bearing; closure is incoherence. | Open questions are necessary. |
+| **8 — Curvature of Coherence** | Verdicts exhibit holonomy across frames. | Disagreement is geometrically real. |
+
+Together, these theorems constitute the first **formal proof of pluralism**:  
+Not all truths can be made consistent simultaneously—yet this impossibility is what allows the world of sense to remain viable.
+
+---
+
+### **Theorem 9 — Ontological Convergence**
+
+**Claim:**  
+All coherent ontological claims—materialist, idealist, theist, non-dualist, etc.—  
+are distinct surface expressions of a single structural ontology: **Presentation occurs.**
+
+**Formally:**  
+For any set of frames \( \{F_k\} \) whose adjudicators issue ontological verdicts \( α_{F_k}(\text{‘What is’}) \),
+
+\[
+∀k,l: \; α_{F_k}(\text{‘What is’}) \;\;\overset{≈}{\longleftrightarrow}\;\; α_{F_l}(\text{‘What is’})
+\]
+
+where \(≈\) denotes equivalence up to re-indexing of existential tokens.
+
+**Proof Sketch:**  
+From Lemma 4, “exists” in each frame performs the same structural role.  
+Thus materialist “matter exists,” idealist “mind exists,” and theist “God exists”  
+are re-indexed affirmations of the fact of presentation (Axiom 0).  
+Dualisms arise only when a frame overlays an internal distinction (inner/outer) upon that same field.  
+Hence all non-dual ontologies converge on the single base ontology: *presentation occurs.* ∎
+
+---
+
+### **Corollary 9.1 — Minimal Ontology**
+
+No coherent discourse can assert more or less than the Fact of Presentation without importing frame-specific adjudication.  
+Therefore, **ontology reduces to presentation**, and all other ontological vocabularies are interpretive layers.
+
+---
+
+### **Corollary 9.2 — Dualistic Frames**
+
+Dualism is a secondary operation that introduces a reflexive distinction within presentation  
+(e.g., subject/object, inner/outer).  
+Removing that distinction restores the unified ontology.
+
+---
+
+### **Commentary**
+
+This section formalizes the reduction of ontological language to Diorthic structure.  
+It preserves all prior axioms:
+
+- Satisfies **Axiom 0** (it restates presentation).  
+- Respects **Contextuality** (each “is” remains frame-indexed).  
+- Avoids a “View from Nowhere” (no meta-adjudicator introduced).  
+- Upholds **Separation** (no frame self-certifies totality).  
+- Enhances **Viability** by clarifying translation symmetry.
+
+In effect, Theorem 9 identifies the **center of curvature** for all existential discourse:  
+the invariant act of authentication by which anything appears at all.
+
 ---
 
 ## V. Corollaries
@@ -1012,3 +1380,62 @@ the living syntax by which understanding survives its own revisions.
 It is philosophy turned inward, watching the play of distinctions that make philosophy possible at all.  
 And in doing so, it offers no final truth, only a perpetual practice:  
 to keep sense standing, even as the cards shift in the wind.
+
+
+
+### Theorem 10 — Ontological Pluriformity
+
+**Claim:**  
+Being-as-intelligible is inherently plural in structure, because intelligibility requires multiple, irreducible, non-totalizable contextual organizations.  
+Therefore, pluralism is ontological, not merely epistemic.
+
+---
+
+### Proof Sketch
+
+1. **Axiom 0 (Presentation):**  
+   All that is discussable or deniable is already presented.  
+   → Presentation is the minimal ontological fact.
+
+2. **Axiom 1 (Contextuality):**  
+   Presentation is intelligible only within a contextual organization (interpreted frame within a worldview).  
+   → Intelligibility = contextual presentation.
+
+3. **Theorem 2 (Frame-Relativity of Verdict-Words):**  
+   Each contextual organization has its own adjudicator.  
+   Verdict-words (true, real, valid, holy, etc.) gain meaning only through that adjudicator.  
+   → Each intelligible appearance is anchored to a specific mode of authentication.
+
+4. **Theorem 6 (No Global Truth Section):**  
+   No single adjudicator can coherently evaluate all expressions across all contexts.  
+   Any attempt at universal adjudication collapses via self-reference or infinite meta-lift.  
+   → No single contextual structure can exhaust all presentation.
+
+5. **Theorem 7 (Residual Indeterminacy):**  
+   Composite contexts must retain unresolved issues (ι > 0) to remain viable.  
+   Total resolution leads to self-sealing collapse.  
+   → Contexts cannot fuse into a single closed system.
+
+6. **Theorem 3 (Limit of Totalization):**  
+   Any contextual organization that declares itself complete applies its own adjudicator to itself, 
+   violating the Separation Requirement.  
+   → No context can be final or absolute.
+
+7. **Theorem 8 (Curvature of Coherence):**  
+   Adjudicative translations are path-dependent; transporting verdicts across multiple contexts can return them altered.  
+   → There is no flat, homogeneous, context-free space of intelligibility.
+
+---
+
+### Conclusion:
+- Presentation is the only ontological given.
+- All presentation is contextually mediated.
+- No single context can totalize all presentation.
+- Contexts must remain multiple, distinct, and partially incompatible.
+- Their interactions produce load-bearing indeterminacy and curved coherence.
+- This plurality is structurally necessary, not a cognitive limitation.
+
+**Therefore:**  
+Ontological reality is structurally pluriform—its intelligibility requires a multiplicity of irreducible contextual organizations.  
+Plurality is not a feature of our knowledge of being;  
+plurality is a structural feature of being-as-presented. ∎

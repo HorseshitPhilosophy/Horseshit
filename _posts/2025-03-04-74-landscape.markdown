@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "74. Diorthics in the Philosophical Landscape"
+date:   2025-03-04 00:11:03 -0700
+categories: jekyll update
+---
+
+
 # Appendix — Diorthics in the Philosophical Landscape
 *A clarification of difference, lineage, and originality*
 
