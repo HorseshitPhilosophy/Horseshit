@@ -1,0 +1,246 @@
+# **Jets — The Dynamics of Open Coherence**
+
+---
+
+### **Abstract**
+
+Earlier chapters described frames as the structural units of meaning: configurations of tokens, rules, and adjudicators that sustain intelligibility.  
+Yet Axiom 5 — *the Openness of Frames* — implies that no frame is perfectly enclosed.  
+Every act of coherence requires a circulation of feedback through its boundaries.  
+This paper names that circulation a **Jet**.
+
+A **Jet** is not an object or a medium but a *mode of persistence*: the dynamic by which coherence maintains itself through continual exchange.  
+Where a frame marks the grammar of intelligibility, a jet marks its metabolism.
+
+---
+
+## **1. Definition**
+
+> **Definition 0 — Jet**  
+> A **Jet** is a self-sustaining flow of adjustment between a frame and its environment.  
+> It converts discrepancy into continued viability without sealing its boundary.
+
+Formally, if a frame \(F\) sustains viability \(V(F)\) through feedback \(f: F ↔ E\) with environment \(E\), then the *jet* is that function in operation:  
+\[
+J_F = \{\,f_i : F \to E \to F \mid V(F) \text{ increases under iteration}\,\}.
+\]
+Intuitively, the jet is **the open circulation that keeps sense alive**.
+
+---
+
+## **2. From Frame to Jet**
+
+Frames describe *structure*; jets describe *process*.  
+To speak of a jet is to shift from static description to dynamic equilibrium.
+
+| Aspect | Frame | Jet |
+|---------|-------|-----|
+| **Primary Function** | Holds relations stable enough for adjudication. | Keeps those relations self-correcting through exchange. |
+| **Boundary Condition** | Conceptually closed for analysis. | Operatively open for viability. |
+| **Failure Mode** | Dogma (rigidity) or dissolution (loss of coherence). | Stagnation (no inflow) or runaway (no containment). |
+| **Metaphor** | Architecture. | Circulation or propulsion. |
+
+Thus every living frame functions as a jet in practice; closure is only an analytical convenience.
+
+---
+
+## **3. The Function of Openness**
+
+Axiom 5 states that each frame exchanges feedback with its surroundings.  
+A jet is that openness **seen from the inside**—the experience of constant correction that sustains meaning.
+
+Examples:
+
+- **Science**: experiment → revision → new hypothesis — a continuous epistemic jet.  
+- **Language**: utterance → misunderstanding → clarification — a communicative jet.  
+- **Ethics**: decision → consequence → reflection — a moral jet.  
+- **Selfhood**: perception → response → reinterpretation — a personal jet.
+
+The vitality of any domain depends on the smoothness of its jet: how effectively it converts anomaly into new coherence.
+
+---
+
+## **4. Jets and Viability**
+
+The **Viability Constraint** (Axiom 4) already implied dynamism: frames persist only by adjusting.  
+Jets describe *how* that adjustment occurs.
+
+> **Theorem J1 — Conservation of Viability**  
+> For any viable frame, there exists at least one non-zero jet.  
+> If all jets go to zero (no feedback exchange), viability decays to zero.
+
+This expresses the Diorthic analogue of a conservation law: stability of meaning requires throughput of difference.  
+A belief, theory, or culture ceases to live when its jet stalls.
+
+---
+
+## **5. Feedback as Adjudication Flow**
+
+In traditional epistemologies, adjudication is a static test: true or false, valid or invalid.  
+In Diorthics, it is a **flow process**—verdicts circulate through internal and external contexts, gradually bending coherence back into shape.
+
+A jet therefore functions as a **vector field of repair**.  
+Each correction introduces a minor phase-shift; accumulated over time, these shifts trace the curvature of the system’s history.  
+Truth, from this perspective, is the *stability of flow*, not the immobility of form.
+
+---
+
+## **6. Jets and Hierarchy**
+
+Jets operate at multiple scales:
+
+- **Microjets**: internal adjustments within a single frame (e.g., an argument refining itself).  
+- **Meso-jets**: exchanges between neighboring frames (e.g., science and ethics negotiating a new technology).  
+- **Macro-jets**: civilization-level circulations of meaning (e.g., paradigm shifts, cultural renaissances).
+
+Each higher-level jet depends on the viability of its lower-level constituents but also provides feedback downward.  
+This multi-scale circulation is what keeps the total ecology of sense alive.
+
+---
+
+## **7. The Ethics of Flow**
+
+Because a jet’s health depends on permeability, Diorthics treats **rigidity as moral hazard**.  
+When institutions, individuals, or ideologies block feedback, their jets choke; meaning ossifies, violence or absurdity follows.  
+Conversely, systems that welcome correction may look unstable yet endure far longer.
+
+Ethical maturity, in Diorthic grammar, is the art of *keeping one’s jet open without collapse*—holding structure firm enough to act, loose enough to learn.
+
+---
+
+## **8. Comparative Note**
+
+| Tradition | Rough Equivalent | Diorthic Clarification |
+|------------|------------------|-------------------------|
+| **Pragmatism** | “Experience in motion.” | Emphasizes adjustment, but not necessarily open boundaries. |
+| **Systems Theory** | “Autopoiesis.” | Similar dynamic closure, but Diorthics stresses exposure over self-containment. |
+| **Phenomenology** | “Intentional arc.” | Captures lived feedback, but jets generalize it to all adjudicative domains. |
+| **Cybernetics** | “Feedback loop.” | Jets include semantic and ethical correction, not just signal regulation. |
+
+Jets generalize these notions into one Diorthic principle: **coherence is propulsion through openness**.
+
+---
+
+## **9. Closing Reflection**
+
+To speak of jets is to move from ontology to metabolism.  
+A worldview, a science, a person, or a culture persists not by possessing truth but by *venting and inhaling difference*.  
+Frames give shape; jets give life.
+
+Where classical metaphysics sought substances and modern epistemology sought systems, Diorthics finds **currents**—the moving balance between correction and collapse.
+
+> **Every truth lives by its jet.**  
+> When feedback stops, meaning burns out.
+
+---
+
+
+### **Corollary J1 — Anomaly as Jet Fuel**
+
+A jet remains viable only insofar as it continues to **ingest difference**.  
+In Diorthic terms, *difference* means any occurrence that resists immediate assimilation under the frame’s current rules or tokens—what appears as *error, contradiction, surprise,* or *mystery.*
+
+Formally:  
+Let \( F \) be a viable frame operating as jet \( J_F \).  
+Let \( Δ \) denote incoming discrepancy (empirical, conceptual, or experiential).  
+Then:
+\[
+V(J_F) \propto \frac{∂C(F)}{∂Δ}
+\]
+where \( C(F) \) is the coherence of \( F \).  
+That is, the vitality of a jet depends on its capacity to convert discrepancy into restored or enhanced coherence.
+
+**Interpretive Context:**  
+What literal engines call *fuel,* jets of meaning call *anomaly.*  
+Anomalies, disagreements, and paradoxes are not threats but **nutrients**—the raw material from which new equilibrium arises.  
+Frames that deflect or repress anomaly stagnate; those that metabolize it evolve.
+
+**Illustrations:**  
+- **Scientific Jets:** fuelled by observation that contradicts theory; combustion yields revision.  
+- **Ethical Jets:** fuelled by conflict between norm and consequence; combustion yields moral refinement.  
+- **Personal Jets:** fuelled by cognitive dissonance; combustion yields insight or growth.  
+- **Cultural Jets:** fuelled by aesthetic or political rupture; combustion yields new forms of life.
+
+Hence, every enduring system of sense must remain **permeable to anomaly.**  
+The refusal of difference is not purity but suffocation.
+
+> **To live is to burn surprise.**
+
+---
+---
+---
+
+### **Section 4 — Chain-Reaction Dynamics of Jets**
+
+No jet operates in isolation.  
+Because every act of repair alters the conditions of its environment, **the exhaust of one jet becomes the intake of another.**  
+Each emission—new concept, discovery, doctrine, artwork, or social norm—disturbs the surrounding field of coherence, generating fresh anomalies for other jets to metabolize.  
+
+This establishes an **ecology of feedback**:  
+a chain-reaction of open adjustments that keeps the total field of intelligibility in motion.
+
+---
+
+#### **4.1. Principle of Disturbance**
+
+> **Principle:** Every successful repair propagates new discrepancy beyond its boundary.  
+> A jet’s coherence generates turbulence in neighboring frames.
+
+Formally, if \( J_i \) and \( J_j \) are adjacent jets operating in partial overlap,
+then:
+\[
+Δ_j(t+1) = f_{ij}(O_i(t))
+\]
+where \( O_i(t) \) is the output or revised articulation of \( J_i \), and \( Δ_j \) is the anomaly intake of \( J_j \).  
+In simpler language: **what one system resolves, another inherits as question.**
+
+---
+
+#### **4.2. Cross-Frame Resonance**
+
+Because jets differ in validator and grammar, their emitted disturbances appear under different guises:
+
+| Source Jet | Exhaust Form | Received as (in Target Jet) |
+|-------------|--------------|-----------------------------|
+| **Scientific** | New empirical theory | Philosophical problem of interpretation |
+| **Philosophical** | Conceptual innovation | Scientific hypothesis or ethical tension |
+| **Artistic** | Formal experimentation | Cultural paradigm shift |
+| **Religious** | Mystical insight or moral reform | Sociopolitical upheaval |
+| **Technological** | Tool or medium | Ethical and psychological dilemmas |
+
+Hence, cross-disciplinary “influence” is not a metaphor but a structural circulation of anomaly.  
+Each jet both stabilizes and perturbs the larger coherence-field.
+
+---
+
+#### **4.3. Temporal and Contemporaneous Propagation**
+
+This chain reaction unfolds **synchronously** and **diachronically**:
+
+- *Synchronous propagation* — Jets operating side by side (e.g., philosophy and physics) continuously exchange turbulence in real time.  
+- *Diachronic propagation* — The exhaust of past jets persists as latent anomaly for future ones.  
+  The “Newton-jet” still fuels the “Einstein-jet,” which in turn fuels yet unformed frames.
+
+Thus, history itself can be viewed as a **cascading combustion of difference**—  
+each epoch metabolizing the residue of the last, leaving new residues for the next.
+
+---
+
+#### **4.4. The Ecology of Coherence**
+
+Because every jet feeds and is fed by others, the Diorthic universe resembles not a hierarchy of truths but an **open ecology of repair**.  
+There is no final combustion, only redistribution of anomaly.  
+Meaning survives through circulation, not completion.
+
+> Each jet breathes what another exhales.  
+> Coherence is a chain-reaction of disturbance.
+
+---
+
+#### **4.5. Implication**
+
+This picture extends the Viability Constraint beyond individual frames:
+- Local coherence depends on continual intake of anomaly.  
+- Global coherence depends on continual *exchange* of anomalies among frames.  
+
+The cosmos of meaning thus sustains itself not as a pyramid of truths, but as a living atmosphere of jets—each one generating the turbulence that keeps the rest alive.

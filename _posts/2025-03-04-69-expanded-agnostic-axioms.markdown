@@ -708,6 +708,60 @@ Frames live by adjusting, not by freezing.
 A belief or theory that cannot accommodate dissonance without breaking apart has already left the domain of meaning and entered the silence of collapse.
 
 
+### **Axiom 5 — The Openness of Frames**  
+No frame of meaning, reasoning, or practice can be fully closed.  
+Every frame remains coupled—directly or indirectly—to others through shared channels of feedback, influence, or mutual disturbance.  
+Absolute isolation is impossible; even an attempt at total self-containment becomes a relation to what it excludes.  
+
+This axiom introduces the **ecological principle** of Diorthics: coherence always occurs *in contact*.  
+Frames do not merely coexist in parallel; they inhabit a network of reciprocal pressures.  
+Science depends on language and ethics; art relies on perception and culture; theology interacts with lived experience.  
+Each draws its stability from exchanges that cross its own boundaries.  
+To be intelligible at all, a frame must remain open enough to register signals from the surrounding field of presentation.  
+
+Openness is therefore not optional but **structural**.  
+It is the condition that allows feedback to reach the frame in the first place.  
+Where Axiom 4 (Viability) states that a frame survives by correcting itself, Axiom 5 explains **why correction is possible at all**: because no adjudicative system is perfectly sealed against new information, contradiction, or resonance.  
+Every context breathes through others.  
+
+A closed frame—one that denies or suppresses all external contact—ceases to be a living participant in the ecology of meaning.  
+It may persist as dogma or algorithm, but its coherence no longer develops; it repeats itself until the world around it moves on.  
+Conversely, an excessively open frame dissolves into noise, losing its own adjudicative rhythm.  
+Openness, like viability, demands balance: enough permeability to receive correction, enough structure to interpret it.  
+
+**Examples:**  
+- **Scientific practice** draws questions from culture and technology, then exports its results back as worldview—mutual openness across frames.  
+- **Artistic expression** absorbs scientific and ethical tensions, translating them into aesthetic insight.  
+- **Religious tradition** maintains coherence by interpreting revelation through changing historical and moral conditions.  
+- **Personal identity** forms and reforms through dialogue, culture, and environment; isolation is existential breakdown.  
+
+**Interpretive Context:**  
+Openness complements Viability as its **ontological counterpart**.  
+Viability governs persistence *within* a frame; Openness governs connectivity *among* frames.  
+Together they define a universe of meaning that is neither monolithic nor atomized but **interconnected through perpetual exchange**.  
+Feedback is never local: each correction ripples outward, perturbing its neighbors and inviting new equilibria.  
+The world, understood Diorthically, is the sum of these interframe resonances—the ongoing conversation through which coherence survives.  
+
+**Comparative Note:**  
+| Worldview | Form of Openness | Strength | Failure Mode |  
+|------------|------------------|-----------|---------------|  
+| **Materialist** | Empirical interaction with non-human reality | Expands scope of knowledge | Reductionism (excluding unmeasurable domains) |  
+| **Theist** | Revelation mediated by creation and conscience | Links divine and temporal | Sectarian isolation (closure to new insight) |  
+| **Idealist** | Conceptual relation to all thought | Integrates meaning through reflection | Solipsistic enclosure (no external check) |  
+| **Nondualist** | Mutual transparency of distinctions | Universal inclusion | Indiscriminate fusion (loss of functional boundaries) |  
+
+**Philosophical Implication:**  
+Openness is what prevents Diorthics from collapsing into relativism or solipsism.  
+Because frames are never sealed, their boundaries remain testable; each receives external feedback that can confirm, challenge, or reorient it.  
+Truth, therefore, is not private but **cross-frame viability**—the ability of a structure of meaning to remain coherent amid contact with others.  
+
+No frame stands alone.  
+Every act of understanding participates in a wider ecology of sense.  
+A philosophy that forgets this will eventually harden into the very closure it denies.  
+To remain alive, meaning must stay porous to the world that exceeds it.
+
+
+
 ---
 
 ## IV. Derived Theorems
@@ -1079,6 +1133,24 @@ Residual “mystery” is not failure but architecture.
 **Corollary 7.1 — Load-Bearing Questions**  
 Live disciplines retain unresolvable questions not because they are incomplete, but because those questions stabilize their composite interfaces.
 
+
+**Corollary 7.2 — The Limit of Formalization**  
+Any calculus that attempts to encode Diorthics in full reinstates the global-truth operator it denies.  
+Therefore the only coherent “Diorthic Calculus” is a partial calculus:  
+a local formalism whose rules terminate at the unformalized boundary that sustains them.  
+In this sense, Diorthics is not a new formalism but the discipline of marking where formalisms end.
+
+### Corollary 7.3 — Flatness as Degenerate Limit
+Perfectly flat frame-spaces (zero holonomy, ι = 0) are not viable states but idealizations.
+A living network of sense must sustain minimal curvature and residual indeterminacy.
+Flatness corresponds to self-sealing; curvature corresponds to openness.
+Therefore every enduring coherence is, in practice, slightly curved.
+
+### Corollary 7.4 — Self-Stirring Closure
+A frame that seals its external boundaries may remain viable if it internalizes anomaly as constitutive feature.
+Its stability depends on sustained oscillation of internal contradictions.
+When the oscillation dampens (resolution) or explodes (unbounded inconsistency), viability ceases.
+
 ---
 
 ### **Theorem 8 — Curvature of Coherence (Holonomy of Truth)**
@@ -1247,6 +1319,32 @@ Every paradox says the same thing in a different accent:
 
 ---
 
+### Corollary 3 — Generativity of Presentation  
+*(from Axiom 0 — The Fact of Presentation, and Axiom 5 — The Openness of Frames)*
+
+If whatever can appear already appears **within presentation**, and if every frame that interprets such appearance remains **open to feedback** from the rest of presentation,  
+then presentation itself must be **generative**: the field of appearance continually produces new distinctions in response to the tensions among its own frames.
+
+Generativity means that appearance is not a fixed stock of phenomena but a **self-renewing field of differentiation**.  
+When frames lose coherence, presentation does not vanish; it reorganizes the conditions of intelligibility until new coherence emerges.  
+In this sense, breakdown and novelty are phases of the same process—the way the presented world repairs itself.
+
+Where Axiom 0 established that something always shows up, and Axiom 5 that no frame can seal itself from what shows up,  
+this corollary adds the temporal insight: **what shows up keeps evolving**.  
+Presentation is not only the backdrop of meaning but its source of renewal.
+
+**Implications:**  
+- The failure of a worldview or theory is not a terminal event but a **moment of reconfiguration** in the presentation-field.  
+- “Emergence,” in scientific or philosophical contexts, names this generativity when seen from within a particular frame.  
+- Novelty is not creation *ex nihilo* but the repercussion of openness acting upon the fact of presentation.
+
+**Philosophical Context:**  
+This corollary transforms Axiom 0 from a static statement (“something appears”) into a **dynamic ontology** (“appearance keeps differentiating”).  
+It provides the metaphysical counterpart to Axiom 4 (Viability Constraint):  
+where viability governs the survival of coherence within frames, generativity governs the **renewal of coherence across time**.  
+Together they describe the living rhythm of meaning—the ongoing emergence of new frames from the field that sustains them.
+
+
 ## VI. Meta-Axioms
 
 ### **Meta-Axiom 1 — Reflexive Applicability**  
@@ -1381,61 +1479,309 @@ It is philosophy turned inward, watching the play of distinctions that make phil
 And in doing so, it offers no final truth, only a perpetual practice:  
 to keep sense standing, even as the cards shift in the wind.
 
+---
 
-
-### Theorem 10 — Ontological Pluriformity
+### **Theorem 10 — Transcendental Pluriformity**
 
 **Claim:**  
-Being-as-intelligible is inherently plural in structure, because intelligibility requires multiple, irreducible, non-totalizable contextual organizations.  
-Therefore, pluralism is ontological, not merely epistemic.
+For the world to appear coherently at all, it must be *considered* pluriform—appearing through multiple, irreducible adjudicative frames whose coexistence cannot be collapsed without loss of intelligibility.  
+Plurality is therefore a **transcendental condition** of presentation, not an ontological property of being.
 
 ---
 
-### Proof Sketch
+### **Proof Sketch**
 
 1. **Axiom 0 (Presentation):**  
-   All that is discussable or deniable is already presented.  
-   → Presentation is the minimal ontological fact.
+   All that is describable, deniable, or discussable is already presented within awareness.  
+   → Presentation is the minimal condition for appearance.
 
 2. **Axiom 1 (Contextuality):**  
-   Presentation is intelligible only within a contextual organization (interpreted frame within a worldview).  
-   → Intelligibility = contextual presentation.
+   Every presentation is intelligible only within an adjudicative frame.  
+   → Intelligibility is frame-relative.
 
 3. **Theorem 2 (Frame-Relativity of Verdict-Words):**  
-   Each contextual organization has its own adjudicator.  
-   Verdict-words (true, real, valid, holy, etc.) gain meaning only through that adjudicator.  
+   Each frame has its own adjudicator.  
+   Verdict-words (true, real, valid, holy, etc.) gain meaning only within that adjudicator’s rule-space.  
    → Each intelligible appearance is anchored to a specific mode of authentication.
 
-4. **Theorem 6 (No Global Truth Section):**  
-   No single adjudicator can coherently evaluate all expressions across all contexts.  
-   Any attempt at universal adjudication collapses via self-reference or infinite meta-lift.  
-   → No single contextual structure can exhaust all presentation.
+4. **Axiom 3 (Separation Requirement):**  
+   No frame can adjudicate its own adjudicator without collapsing coherence.  
+   → No single frame can encompass all presentation.
 
-5. **Theorem 7 (Residual Indeterminacy):**  
-   Composite contexts must retain unresolved issues (ι > 0) to remain viable.  
-   Total resolution leads to self-sealing collapse.  
-   → Contexts cannot fuse into a single closed system.
+5. **Theorem 6 (No Global Truth Section):**  
+   There exists no universal adjudicator capable of issuing verdicts across all frames.  
+   → Intelligibility has no context-free foundation.
 
-6. **Theorem 3 (Limit of Totalization):**  
-   Any contextual organization that declares itself complete applies its own adjudicator to itself, 
-   violating the Separation Requirement.  
-   → No context can be final or absolute.
+6. **Theorem 7 (Residual Indeterminacy):**  
+   Viable composites retain nonzero remainder (ι > 0); total closure destroys coherence.  
+   → Distinct frames must persist for presentation to endure.
 
 7. **Theorem 8 (Curvature of Coherence):**  
-   Adjudicative translations are path-dependent; transporting verdicts across multiple contexts can return them altered.  
+   Adjudicative translations are path-dependent; transporting verdicts across multiple frames can return them altered.  
    → There is no flat, homogeneous, context-free space of intelligibility.
 
 ---
 
-### Conclusion:
-- Presentation is the only ontological given.
-- All presentation is contextually mediated.
-- No single context can totalize all presentation.
-- Contexts must remain multiple, distinct, and partially incompatible.
-- Their interactions produce load-bearing indeterminacy and curved coherence.
+### **Conclusion:**
+- Presentation is the only given condition of discourse.  
+- All presentation is contextually adjudicated.  
+- No single frame can totalize all presentation.  
+- Frames must remain multiple, distinct, and partially incompatible.  
+- Their interactions produce load-bearing indeterminacy and curved coherence.  
 - This plurality is structurally necessary, not a cognitive limitation.
 
 **Therefore:**  
-Ontological reality is structurally pluriform—its intelligibility requires a multiplicity of irreducible contextual organizations.  
-Plurality is not a feature of our knowledge of being;  
-plurality is a structural feature of being-as-presented. ∎
+Plurality is not a property *of* the world but a precondition *for* its appearance.  
+We must **consider the world as pluriform** in order for it to appear at all.  
+“Transcendental Pluriformity” designates not an ontology, but the **grammar of appearance** that makes any ontology possible. ∎
+
+
+
+### **Theorem 11 — Mutual Containment of Frames**  
+Every frame both constrains and is constrained by others that overlap with it.  
+
+**Proof Sketch:**  
+From Axiom 5 (Openness), no frame is fully closed; each receives feedback from its surroundings.  
+From Axiom 4 (Viability), a frame persists only by processing feedback.  
+Therefore, external feedback must be integrated into its operation, meaning that every frame implicitly contains traces of others in its adjudication process.  
+
+**Consequence:**  
+Frames form an **interdependent ecology** rather than discrete compartments of meaning.  
+Each gains intelligibility only through resonance with its neighbors.  
+
+---
+
+### **Theorem 12 — Relational Integrity**  
+Coherence is preserved not by internal consistency alone but by **reciprocal compatibility** with adjacent frames.  
+
+**Proof Sketch:**  
+A frame’s survival depends on its ability to adjust under feedback (Axiom 4) and to maintain contact with others (Axiom 5).  
+Loss of inter-frame compatibility leads to breakdown even if internal logic remains intact.  
+
+**Example:**  
+A scientific paradigm can be internally consistent yet collapse when it ceases to communicate with moral, social, or experiential domains.  
+
+**Consequence:**  
+Truth and coherence acquire a **relational dimension**—they exist not in isolation but in the compatibility of frameworks.  
+
+---
+
+### **Theorem 13 — Equilibrium Drift**  
+Presentation tends toward states of increasing cross-frame coherence until new contradictions emerge.  
+
+**Proof Sketch:**  
+From the Corollary (Generativity of Presentation), breakdowns yield new differentiations.  
+From Axiom 5, these new frames remain open, exchanging feedback with others.  
+The network of frames thus self-organizes toward broader coherence, which in turn generates fresh tensions.  
+
+**Interpretation:**  
+Diorthics predicts a **cyclic balance** rather than final harmony: meaning drifts toward coherence until renewed stress transforms it again.  
+
+---
+
+### **Theorem 14 — Cross-Frame Test of Truth**  
+A claim’s durability across distinct frames is proportional to its viability as truth.  
+
+**Proof Sketch:**  
+From Axiom 5, every frame is exposed to others.  
+From Axiom 4, coherence under feedback defines viability.  
+Thus, the more a claim retains coherence when reinterpreted across multiple frames, the more robustly true it is.  
+
+**Consequence:**  
+Truth becomes **poly-frame endurance**—the ability to survive translation, critique, and recontextualization without disintegration.  
+
+---
+
+### **Theorem 15 — Impossibility of Final Closure**  
+No philosophical, scientific, or theological system can terminate the field of meaning that supports it.  
+
+**Proof Sketch:**  
+Closure would require a frame perfectly sealed from external feedback, contradicting Axiom 5.  
+Every totalizing system must either subdivide into new subframes or expand its boundary to assimilate anomalies—both forms of continued openness.  
+
+**Consequence:**  
+There can be no ultimate or last philosophy.  
+All systems of thought remain **temporally provisional**—viable but never final.  
+
+---
+
+### **Theorem 16 — Meta-Stability of Diorthics (Self-Containment Theorem)**  
+Diorthics remains coherent under its own application because its axioms entail openness and generativity.  
+
+**Proof Sketch:**  
+Applying Diorthics to itself introduces new feedback, but openness ensures this feedback is not paradoxical; it becomes another repair operation.  
+Generativity of presentation guarantees new distinctions arise to accommodate the reflection.  
+
+**Consequence:**  
+The so-called “Diorthics-paradox” resolves itself:  
+Diorthics describes the very condition that allows it to remain coherent under self-reference.  
+
+---
+
+### **Corollary 16.1 — Sustainability of Philosophy**  
+Philosophy cannot conclude with certainty or silence.  
+Because every frame remains open and generative, reflection perpetually renews its field.  
+The ongoing dialogue of worldviews is not a defect but the **lifeblood of meaning**.  
+To philosophize is to participate in the endless homeostasis of sense.
+
+
+### Theorem 17 — Self-Reference as the Origin of Feedback
+
+Whenever a frame produces expressions that can refer to its own adjudicator,  
+a **feedback loop** arises: the frame becomes capable of monitoring and correcting itself.
+
+**Proof Sketch:**  
+Self-reference links a token’s evaluation to the rules that evaluate it.  
+Each application updates the rule-set based on its own output, producing iterative self-assessment.  
+This iteration—assertion, revision, re-assertion—is the minimal structure of feedback.  
+Hence, any system that can represent its own validation implicitly contains a repair dynamic.
+
+**Corollary 17.1 — Autogenesis of Viability:**  
+Viability is not an added feature of thought but a by-product of self-reference.  
+A system capable of saying “I am inconsistent” has already built the means to repair itself.
+
+### Addendum — Derivation of the Viability Constraint
+
+Self-reference is the moment a frame’s tokens can refer to, and thus test, its own adjudicator.  
+This act generates a feedback loop: each evaluation updates the very rule by which it is judged.  
+The frame thereby gains the capacity for self-correction—the minimal form of viability.
+
+**Therefore, Axiom 4 (Viability Constraint)** is not primitive but emergent:
+> Feedback arises whenever a system internalizes its own validation procedure.
+
+A frame without self-reference cannot repair itself;  
+a frame with self-reference cannot avoid doing so.
+
+Viability, in this sense, is the dynamic signature of reflexivity.
+
+
+### **Corollary X — The Self-Referential Origin of Contradiction**
+
+Every contradiction marks an instance of **self-reference within or between frames**.  
+When two tokens or rules that belong to distinct adjudicators are applied within the same evaluative field, each becomes a test upon the other.  
+This cross-application generates a loop of validation—a recursion of sense upon itself.
+
+**Formally:**  
+Let frame \( F \) operate under adjudicator \( A_F \).  
+When a statement \( s \in F \) invokes or presupposes \( A_F \) as part of its own content, evaluation of \( s \) depends on its own condition of evaluation.  
+If \( A_F(s) \) yields conflicting results when applied internally and externally, contradiction appears.
+
+Thus, contradiction is not the meeting of two incompatible truths but the *collision of an adjudicator with its reflection*.  
+It signals not incoherence in reality but **reflexivity in operation**—the moment sense folds back upon itself.
+
+From this view:
+- Logical paradoxes are explicit self-references (liar, Russell, Curry).  
+- Metaphysical and theological paradoxes are **cross-frame self-references** (Trinity, Incarnation, “form is emptiness”).  
+- Existential paradoxes (“to be free is to be bound”) are **experiential self-references**, where the grammar of action includes its own condition.
+
+Every contradiction, when traced to its structure, reveals a **feedback loop**—the same process that sustains meaning through repair.  
+Paradox is thus the signature of awareness entering its own frame.
+
+
+### **Lemma Y — Curved Feedback and Apparent Contradiction**
+
+In an open, non-flat network of frames, feedback is not perfectly identity-preserving.  
+When a frame receives its own operations as input after they have traversed other frames, the returning content is transformed by the holonomy \(H\) of the adjudicative field.  
+Contradiction then arises not from logical incompatibility, but from **non-isometric self-encounter**: the frame meets its own rule in a rotated form.
+
+Formally:  
+If \(I_{ij}\) are interface mappings and \(H = I_{n1}∘…∘I_{12}\), then for a verdict \(⊩_{F_1}\):
+
+\[
+⊩'_{F_1} = H(⊩_{F_1})
+\]
+
+When \(H ≠ \text{identity}\), the returning verdict is altered.  
+The resulting mismatch \(⊩_{F_1} \neq ⊩'_{F_1}\) manifests phenomenologically as contradiction.
+
+**Interpretation:**  
+Paradox is not only self-reference but *curved* self-reference—  
+the feedback of sense through a non-flat field of intelligibility.  
+Where homeostasis describes the stable oscillation of direct feedback, curvature describes the persistent phase-shift of mediated feedback.
+
+
+### **Theorem 13 — Two Geometries of Contradiction**
+
+1. **Homeostatic Contradiction:** arises from flat feedback within a frame; resolves through oscillatory balance (internal viability).  
+2. **Holonomic Contradiction:** arises from curved feedback across frames; resolves through structural recognition (meta-viability).
+
+Corollary:  
+Where curvature is zero, contradiction can be locally repaired.  
+Where curvature is nonzero, contradiction endures as the sign of open coherence.
+
+
+### **Theorem 18 — Universal Sorites (Continuity of Distinction) (all distinctions are Soritical)**
+
+**Claim:**  
+Every viable frame exhibits Soritical structure.  
+No distinction can be made perfectly sharp without collapsing the openness that sustains intelligibility.
+
+**Proof Sketch:**  
+1. By Axiom 5 (Openness), all frames exchange feedback with neighboring frames.  
+2. By Theorem 7 (Residual Indeterminacy), these interfaces retain nonzero undecidability (ι > 0).  
+3. Therefore, membership conditions for any token, rule, or adjudicator vary continuously across interface gradients.  
+4. Attempting to enforce binary partitioning (clear heap/non-heap) eliminates feedback, violating Viability (Axiom 4).  
+5. Hence all distinctions are **Sorites-type boundaries**: continuous in structure, discrete only by pragmatic convention.
+
+**Corollary 18.1 — Pragmatic Sharpness**  
+Local crispness of categories (e.g., "alive/dead," "true/false") arises from operational thresholds optimized for stability, not metaphysical discontinuities.
+
+**Corollary 18.2 — The Ontological Gradient**  
+Being itself is graded: phenomena differ by degrees of coherence, not by absolute separation.
+
+**Interpretive Context:**  
+The Sorites is not an anomaly of language but the default state of presentation.  
+What we call “objects,” “concepts,” or “persons” are sustained Sorites—  
+stable slopes of coherence that remain viable while distinctions remain unexamined.
+
+
+### **Theorem 19 — Distinction as Unresolved Self-Reference**
+
+**Claim:**  
+Every apparent distinction is a stabilized contradiction: an oscillation of self-reference that has not yet reached equilibrium.  
+Persistence of difference indicates persistence of unresolved feedback.
+
+**Proof Sketch:**  
+1. By Corollary X (Self-Referential Origin of Contradiction), contradiction arises when a frame encounters its own adjudicator in reflected form.  
+2. By Axiom 5 (Openness), no frame can completely prevent such reflection; feedback is intrinsic.  
+3. When feedback cannot settle into a single verdict, it alternates—producing a repeatable contrast recognizable as a distinction.  
+4. The distinction endures only while the oscillation remains viable; complete resolution would erase the difference, complete instability would dissolve it.  
+
+**Corollary 19.1 — Stable Tension**  
+A functional distinction marks a zone of sustained but bounded inconsistency:  
+the feedback varies without breaking the system’s overall coherence.
+
+**Corollary 19.2 — Resolution Limit**  
+When oscillation amplitude falls below the frame’s sensitivity threshold, the distinction disappears (integration).  
+When it exceeds that threshold, the frame fragments (breakdown).
+
+**Corollary 19.3 — Origin of Tokens**
+A token exists only as the outcome of an adjudication — something has been presented, discriminated, and stabilized.  
+No “token” precedes a frame; the frame makes it be a token.  
+So, every token carries the fossil record of a prior distinction.
+At minimum, it embodies the polarity:
+> accepted / rejected, self / other, true / false, spin-up / spin-down.  
+
+The form of that polarity varies by scale, but the logical act is invariant: the crystallization of an oscillation.
+
+A token is never absolutely fixed; its identity holds only while it remains viable under the frame’s feedback.
+If inspected too closely (Sorites pressure, quantum probing, paradoxical analysis), its boundaries blur — it reveals the continuum from which it was carved.
+
+**Interpretive Note:**  
+This theorem complements Theorem 14 (Universal Sorites):  
+gradual boundaries appear continuous because their underlying contradictions oscillate faster than the frame can resolve.  
+Distinctions persist not as final separations but as **temporarily stabilized non-resolutions** within an open field of sense.
+
+**Comparative Note — How Worldviews Interpret Stabilized Contradiction**
+
+| Worldview | What the “oscillation” looks like | Example within that frame | Mode of eventual repair |
+|------------|----------------------------------|----------------------------|--------------------------|
+| **Materialist** | Dynamic equilibrium between opposing forces or states; unresolved feedback in matter or energy. | Wave–particle duality; reversible reactions; self-organizing criticality. | Empirical refinement or deeper theory integrating both states. |
+| **Theist** | Tension between divine unity and created multiplicity; paradox of transcendence and immanence. | Trinity; free will vs. providence. | Faithful reconciliation through revelation or doctrinal balance. |
+| **Idealist** | Alternation within consciousness between concept and its negation; mind confronting its own limits. | Subject–object dialectic; Hegelian synthesis. | Reflective integration: awareness expands to include both poles. |
+| **Nondualist** | Awareness perceiving itself as divided though it never was; illusion of duality sustained by partial seeing. | Self/world distinction; samsara–nirvana polarity. | Direct insight (clarity): oscillation recognized as transparent play. |
+
+**Synthesis:**  
+Each worldview treats persistent distinction as a different kind of partial resolution:  
+physical, theological, conceptual, or contemplative.  
+Diorthically, all four describe the same structural condition—**viable oscillation under different adjudicators**.

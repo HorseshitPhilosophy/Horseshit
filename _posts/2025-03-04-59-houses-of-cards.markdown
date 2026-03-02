@@ -5,15 +5,15 @@ date:   2025-03-04 00:11:18 -0700
 categories: jekyll update
 ---
 
-# All Worldviews as Houses of Cards: A Primordic Diagnosis  
+# All Worldviews as Houses of Cards: A Diorthic Diagnosis  
 
 ## Abstract  
-Primordics reframes religions, philosophies, and worldviews not as mirrors of truth but as **houses of cards**: fragile yet replicating architectures of tokens and expressions. Each house persists through indoctrination, shielding, and repair; each can collapse if a foundational expression is destabilized; and each may give rise to new houses when collapse releases tokens for recombination. This model explains not only the persistence of Christianity, scientism, or New Age syncretism, but also the defections, innovations, and fragmentations that shape intellectual history.  
+Diorthics reframes religions, philosophies, and worldviews not as mirrors of truth but as **houses of cards**: fragile yet replicating architectures of tokens and expressions. Each house persists through indoctrination, shielding, and repair; each can collapse if a foundational expression is destabilized; and each may give rise to new houses when collapse releases tokens for recombination. This model explains not only the persistence of Christianity, scientism, or New Age syncretism, but also the defections, innovations, and fragmentations that shape intellectual history.  
 
 ---
 
 ## 1. Expressions as Structural Units  
-In Primordics, **tokens** are reproducible markers (“God,” “soul,” “atom,” “law”), but they acquire meaning only through **expressions**—combinations of tokens that are authenticated or rejected within an indication frame.  
+In Diorthics, **tokens** are reproducible markers (“God,” “soul,” “atom,” “law”), but they acquire meaning only through **expressions**—combinations of tokens that are authenticated or rejected within an indication frame.  
 
 - *“God exists”* is an authenticated expression in Christianity but rejected in scientific materialism.  
 - *“Everything real is physical”* is authenticated in materialist frames but rejected in theistic ones.  
@@ -78,6 +78,6 @@ No system is immune; every worldview is a house of cards. What differentiates th
 ---
 
 ## Conclusion  
-Primordics diagnoses all worldviews—religious, scientific, secular, or syncretic—as **viability structures**, fragile yet self-replicating houses of cards built from authenticated expressions. Collapse occurs when foundational expressions cannot be maintained, but collapse also releases tokens for recombination into new systems.  
+Diorthics diagnoses all worldviews—religious, scientific, secular, or syncretic—as **viability structures**, fragile yet self-replicating houses of cards built from authenticated expressions. Collapse occurs when foundational expressions cannot be maintained, but collapse also releases tokens for recombination into new systems.  
 
 The persistence of a worldview is not evidence of its truth, but of its viability. Its collapse is not evidence of falsehood, but of structural limits under interference. What endures is the endless cycle of replication, collapse, and innovation—houses of cards built, toppled, and rebuilt again.  
